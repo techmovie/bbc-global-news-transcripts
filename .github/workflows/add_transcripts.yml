@@ -8,6 +8,8 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+    - name: Check out code
+      uses: actions/checkout@v2
     - name: Commit changes
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
