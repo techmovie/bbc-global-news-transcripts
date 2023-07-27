@@ -2,7 +2,7 @@ name: Run commit transcripts
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   run:
