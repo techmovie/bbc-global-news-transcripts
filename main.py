@@ -61,11 +61,10 @@ def fetch_rss_audio():
             title = entry.title
             audio_url = entry["ppg_enclosuresecure"]["url"]
             file_name = title.replace(" ","_")
-            if not os.path.exists("audios"):
-              os.mkdir("audios")
-            audio_file = os.path.join("audios",f"{file_name}.mp3")
+            audio_file = f"{file_name}.mp3"
             with open(audio_file, 'wb') as f:
-              f.write(requests.get(audio_url).content)
+              file_content = requests.get(audio_url).content
+              f.write(file_content)
             transcript = get_transcript(audio_file)
             if not os.path.exists("transcripts"):
               os.mkdir("transcripts")
