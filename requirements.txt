@@ -2,4 +2,3 @@ feedparser
 apscheduler
 git+https://github.com/linto-ai/whisper-timestamped
 ffmpeg-python
-pickle
