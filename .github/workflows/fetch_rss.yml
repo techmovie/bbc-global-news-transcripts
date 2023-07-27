@@ -3,9 +3,8 @@
 name: Run RSS fetcher
 
 on:
-  push:
-    paths: 'main.py'
-    branches: [main]
+  schedule:
+    - cron: '0 */1 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,3 +25,13 @@ jobs:
 
     - name: Run RSS fetcher
       run: python main.py
+    - name: Commit changes
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git commit -m "Update transcripts" || echo "No changes to commit"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ACTION_TOKEN }}

@@ -2,7 +2,6 @@ import feedparser
 import whisper_timestamped as whisper
 import requests
 import os
-from apscheduler.schedulers.blocking import BlockingScheduler
 import pickle
 
 
@@ -79,10 +78,8 @@ def fetch_rss_audio():
   except Exception as e:
     print(e)
 
-scheduler = BlockingScheduler()
 
 if not os.path.exists(SEEN_ENTRIES_FILE):
   fetch_rss_save_ids_only()
 
-scheduler.add_job(fetch_rss_audio, 'interval', hours=6)
-
+fetch_rss_audio()
