@@ -4,8 +4,8 @@ name: Run RSS fetcher
 
 on:
   push:
-    branches:
-      - main
+    paths: 'main.py'
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
