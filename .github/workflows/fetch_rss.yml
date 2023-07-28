@@ -35,10 +35,9 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Actions"
         git add .
-        git diff-index --quiet HEAD || echo "{changed}={yes}" >> $GITHUB_OUTPUT && git commit -m "Update transcripts"
+        git commit -m "Update transcripts" || echo "No changes to commit"
 
     - name: Push changes
-      if: steps.commit.outputs.changed != 'yes'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
