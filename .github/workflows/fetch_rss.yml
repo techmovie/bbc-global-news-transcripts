@@ -23,6 +23,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Install ffmpeg
+      run: |
+        sudo apt update
+        sudo apt install ffmpeg
     - name: Run RSS fetcher
       run: python main.py
 
@@ -38,4 +42,4 @@ jobs:
       if: steps.commit.outputs.changed == 'true'
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.ACTION_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
