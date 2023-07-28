@@ -18,6 +18,7 @@ This project fetches the RSS feed of the BBC Global News podcast, downloads the 
 
 1. Run the `main.py` file: `python main.py`
 2. The script will download any new audio files from the RSS feed, transcribe them, and save the transcripts as text files in the `transcripts` folder.
+3. You can also find all the history transcripts in the `transcripts` folder. They were created by the GitHub action automatically.
 
 ## License
 
