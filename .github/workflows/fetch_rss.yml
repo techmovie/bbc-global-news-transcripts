@@ -3,9 +3,9 @@
 name: Run RSS fetcher
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 */4 * * *'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,7 +31,7 @@ jobs:
 
     - name: Run RSS fetcher
       run: python main.py
-      
+
     - id: commit
       name: Commit changes
       run: |

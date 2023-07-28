@@ -3,6 +3,7 @@ import whisper_timestamped as whisper
 import requests
 import os
 import pickle
+from datetime import datetime
 
 
 RSS_URL = "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
@@ -60,15 +61,20 @@ def fetch_rss_audio():
         if entry.id not in seen_entries:
             title = entry.title
             audio_url = entry["ppg_enclosuresecure"]["url"]
+            pubdate = entry["published"]
+            formatted_date = datetime.strptime(pubdate, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
+            year,month = formatted_date.split("-")[0],formatted_date.split("-")[1]
             file_name = title.replace(" ","_")
             audio_file = f"{file_name}.mp3"
             with open(audio_file, 'wb') as f:
               file_content = requests.get(audio_url).content
               f.write(file_content)
             transcript = get_transcript(audio_file)
-            if not os.path.exists("transcripts"):
-              os.mkdir("transcripts")
-            with open(f"transcripts/{file_name}.txt", "w") as f:
+            folder_name = f"transcripts/{year}/{month}"
+            if not os.path.exists(folder_name):
+              print("Creating folder:", folder_name)
+              os.makedirs(folder_name)
+            with open(f"{folder_name}/{formatted_date.replace('-','_')}_{file_name}.txt", "w") as f:
               f.write(transcript)
             seen_entries.add(entry.id)
             with open(SEEN_ENTRIES_FILE, 'wb') as f:
