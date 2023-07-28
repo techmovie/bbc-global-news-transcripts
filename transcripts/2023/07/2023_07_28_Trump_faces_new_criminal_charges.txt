@@ -1,0 +1,677 @@
+00:00.060 - 00:05.560:  Hello, this is the Global News Podcast from the BBC World Service with reports and analysis
+00:05.560 - 00:08.740:  from across the world, the latest news seven days a week.
+00:09.200 - 00:12.620:  BBC World Service Podcasts are supported by advertising.
+00:16.260 - 00:22.360:  NetJets, the global private aviation leader, is known for personalizing every detail of your travels.
+00:22.360 - 00:26.220:  Because NetJets standard is not just to meet their definition of perfection,
+00:26.220 - 00:27.980:  it's to exceed yours.
+00:28.620 - 00:30.560:  Discover more at netjets.com.
+00:33.960 - 00:37.240:  You're listening to the Global News Podcast from the BBC World Service.
+00:40.280 - 00:41.440:  Hello, I'm Oliver Conway.
+00:41.440 - 00:45.340:  We're recording this at 13 hours GMT on Friday the 28th of July.
+00:45.960 - 00:47.680:  The former US President, Donald Trump,
+00:47.680 - 00:50.820:  faces new charges of his handling of classified documents.
+00:51.740 - 00:54.780:  After a coup, the chief of the Presidential Guard in Niger
+00:54.780 - 00:57.120:  declares himself to be the country's new leader
+00:57.720 - 01:03.040:  and how did Google's earthquake warning system perform during the disaster in Turkey earlier this year?
+01:05.620 - 01:06.760:  Also in this podcast,
+01:06.760 - 01:09.480:  they don't have any metabolism going on,
+01:09.780 - 01:12.460:  so they are in a state which is between life and death.
+01:12.520 - 01:14.780:  We could call it suspended animation, I guess.
+01:15.260 - 01:20.560:  We speak to the man who brought a worm back to life after 46,000 years.
+01:25.860 - 01:30.400:  Even as he waits to find out if he'll be indicted over the storming of the US Congress,
+01:30.400 - 01:33.640:  Donald Trump has been told he is facing further charges
+01:33.640 - 01:37.400:  over his handling of secret documents and his Mar-a-Lago estate in Florida.
+01:37.640 - 01:41.300:  The former US President has accused of directing his employees
+01:41.300 - 01:43.100:  to cover up what was going on there,
+01:43.500 - 01:45.900:  including destroying security camera footage.
+01:46.500 - 01:49.120:  Mr. Trump says the new charges were a desperate attempt
+01:49.120 - 01:51.680:  to continue what he called an illegal witch hunt.
+01:52.140 - 01:52.820:  So what's going on?
+01:52.820 - 01:56.580:  New York Times reporter Glenn Thrush spoke to my colleague, Helena Humphrey.
+01:57.240 - 01:59.160:  The two new charges against Donald Trump
+01:59.700 - 02:01.960:  are an attempt to destroy evidence
+02:01.980 - 02:06.520:  and attempt to coerce somebody into destroying evidence on his behalf.
+02:06.520 - 02:09.420:  And taken together, if he were convicted,
+02:09.460 - 02:12.620:  it would be a maximum of 60 years in prison.
+02:13.280 - 02:14.420:  But just as interestingly,
+02:15.340 - 02:19.560:  one of the other revelations in this document revolves around this tape
+02:19.560 - 02:25.560:  that most people have heard of Donald Trump boasting about possessing these intelligence documents
+02:25.600 - 02:28.920:  at his club in Bedminster in New Jersey.
+02:28.920 - 02:33.180:  He's speaking to two people and he's waving around a document
+02:33.180 - 02:37.040:  that has to do with US defense strategy against Iran.
+02:37.860 - 02:41.100:  Well, that document was not included in the previous indictment.
+02:41.100 - 02:45.920:  The previous indictment includes 31 instances of classified documents
+02:45.920 - 02:49.280:  that he is purported to have improperly kept.
+02:49.820 - 02:54.500:  The question was why wasn't this most infamous of the documents included
+02:55.260 - 02:56.220:  in the original indictment?
+02:56.220 - 02:57.740:  Well, it is now.
+02:58.280 - 02:59.720:  So I would say in some,
+02:59.720 - 03:04.280:  a case which most legal analysts thought a month ago was very strong
+03:04.280 - 03:07.540:  has just become really exponentially stronger.
+03:08.040 - 03:11.540:  We are also waiting for news on the January 6th investigation.
+03:11.700 - 03:13.940:  And if an indictment does come out of that,
+03:13.940 - 03:18.900:  do you foresee the former president still being able to run a presidential campaign?
+03:19.560 - 03:20.580:  Oh, absolutely.
+03:20.620 - 03:24.580:  I mean, he would not only be able to run a presidential campaign,
+03:24.580 - 03:28.940:  he will run the presidential campaign on these indictments.
+03:29.300 - 03:34.940:  His entire campaign is a campaign to put it bluntly of grievance and vengeance.
+03:35.720 - 03:40.920:  He has vowed to essentially go after the FBI and the Justice Department,
+03:41.420 - 03:43.680:  restructure them, change them from top to bottom.
+03:43.680 - 03:47.560:  And something which he actually attempted to do when he was president, if he's elected.
+03:48.220 - 03:52.700:  And polls are showing some erosion in his core support among Republicans.
+03:53.260 - 03:58.260:  But for the most part, a lot of these accusations tend to strengthen his hand with his base
+03:58.260 - 03:59.120:  not weaken it.
+03:59.420 - 04:01.460:  New York Times reported Glenn Thrush.
+04:02.200 - 04:04.760:  Two days after soldiers seized power in Niger,
+04:04.760 - 04:10.060:  the head of the presidential guard has appeared on TV to declare himself the new leader of the
+04:10.060 - 04:10.980:  West African state.
+04:11.520 - 04:19.000:  The mercredi 2022, dressed in military fatigues, General Abdurrahman Chiani,
+04:19.000 - 04:24.080:  said the coup was motivated by a desire to preserve what he called our dear homeland.
+04:24.980 - 04:30.220:  Niger's president, Mohammed Bazoum, was detained by the presidential guard on Wednesday morning.
+04:30.220 - 04:34.260:  France says the coup is dangerous for the whole Sahel region.
+04:34.800 - 04:39.220:  But the boss of the Russian mercenary group Wagner has offered to send his fighters in
+04:39.220 - 04:41.720:  to assist the new military rulers.
+04:42.280 - 04:45.920:  The latest on Niger, I spoke to our Africa expert, Grant Ferret.
+04:46.360 - 04:49.680:  This is the first we've heard from the head of the presidential guard.
+04:49.680 - 04:53.820:  Since Niger's president, Mohammed Bazoum, was detained on Wednesday,
+04:54.540 - 04:56.300:  it's taken a couple of days for him to appear.
+04:56.300 - 05:00.860:  So I think we might surmise that there's been a bit of discussion between various military
+05:00.860 - 05:03.440:  factions about exactly who should be in charge.
+05:03.940 - 05:05.460:  The general now says it's him.
+05:05.460 - 05:10.460:  General Chiani complained about poor economic and social governance in Niger,
+05:10.460 - 05:14.100:  but his main comment referred to worsening security problems.
+05:14.720 - 05:18.840:  And he said there hadn't been enough cooperation in the fight against jihadists,
+05:19.060 - 05:21.040:  which is engulfing much of the region.
+05:21.540 - 05:25.400:  There hadn't been enough cooperation with the military governments in Chad and Bikina Faso.
+05:25.780 - 05:28.940:  Well, it seems Niger now has a military government too.
+05:29.480 - 05:33.100:  And this is one of the reasons that there's been such interest in this takeover,
+05:33.420 - 05:36.360:  with the withdrawal of French troops from neighbouring countries,
+05:36.820 - 05:42.620:  Niger had become increasingly important in the international effort against the jihadists.
+05:42.920 - 05:45.480:  Not at all clear where that international effort would stand now,
+05:45.480 - 05:49.820:  if Niger has indeed become another military government in West Africa.
+05:50.320 - 05:52.680:  And is the situation on the streets calm?
+05:52.680 - 05:54.300:  We heard that protests were banned.
+05:54.320 - 05:56.800:  And what about people getting humanitarian assistance?
+05:56.860 - 05:59.860:  There was some suggestion that that might be disrupted.
+06:00.220 - 06:04.760:  Yes, it's not at all clear whether or not the UN is still providing humanitarian assistance.
+06:04.760 - 06:06.680:  Overnight, it seemed it had been withdrawn.
+06:06.700 - 06:08.460:  That hasn't been confirmed.
+06:09.180 - 06:12.240:  In terms of on the streets of Niami and Niger itself,
+06:12.780 - 06:14.280:  there were protests yesterday.
+06:14.280 - 06:19.820:  There were supporters of the coup who looted the headquarters of the depot's president.
+06:19.820 - 06:22.380:  And some vehicles were set on fire.
+06:22.860 - 06:25.300:  Some of those protesters were waving the flags of Niger,
+06:25.300 - 06:28.640:  but some of them also, very prominent ones, were waving Russian flags.
+06:29.460 - 06:32.380:  The authorities have now said, the new military authorities,
+06:33.000 - 06:35.340:  that all public demonstrations are banned.
+06:35.340 - 06:40.200:  And they said that acts of vandalism and wickedness won't be tolerated.
+06:40.560 - 06:44.140:  And you mentioned the Russians briefly a message from Yevgeniy Pregorgin
+06:44.140 - 06:45.380:  about the situation in Niger.
+06:45.960 - 06:47.200:  Yes, this is an interesting one.
+06:47.200 - 06:51.200:  A company affiliated with Wagner has shared an audio message,
+06:51.200 - 06:53.380:  which appears to be from Mr. Pregorgin.
+06:53.820 - 06:56.960:  It's unverified, but he describes this military take over in Niger
+06:57.420 - 06:59.360:  as a fight against colonizers.
+06:59.860 - 07:01.340:  And he talks about possibly helping.
+07:01.340 - 07:03.640:  So Yevgeniy Pregorgin has not gone away
+07:03.640 - 07:05.460:  and is important, it seems, in Africa.
+07:05.960 - 07:07.920:  Our Africa expert, Grant Ferret.
+07:08.620 - 07:12.780:  The island city-state of Singapore has executed its first woman inmate
+07:12.780 - 07:14.020:  for nearly two decades.
+07:14.780 - 07:16.960:  Wright's group said it was a grim milestone.
+07:17.620 - 07:20.140:  Sir, a Jewie, Germany, a Singaporean national
+07:20.140 - 07:23.100:  was hanged for trafficking 30 grams of heroin.
+07:23.620 - 07:26.760:  Our correspondent in Singapore, Nick Marsh, told me more.
+07:27.360 - 07:35.040:  She was arrested back in 2016 for the possession of 30 grams of heroin.
+07:35.040 - 07:39.120:  That's about two tablespoons, by the way, so not a huge amount.
+07:39.740 - 07:42.340:  And the accusation was that she had it to sell.
+07:42.840 - 07:47.640:  Now, she maintains that she had it for her own personal possession.
+07:47.640 - 07:50.380:  She wasn't going to sell all of it.
+07:50.420 - 07:53.800:  She'd actually just stocked up a little bit extra for Ramadan.
+07:54.200 - 07:55.640:  She was actually a former drug addict.
+07:55.640 - 07:58.780:  She'd spent a couple of years in prison previously.
+07:58.840 - 08:03.300:  But the court didn't believe her and they sentenced her to death
+08:03.340 - 08:06.360:  because the mandatory sentence in Singapore
+08:06.360 - 08:09.200:  for drug trafficking is the death penalty
+08:09.200 - 08:11.200:  and so she was hanged this morning.
+08:11.800 - 08:14.400:  And following the execution, there's been criticism
+08:14.660 - 08:15.720:  from human rights groups.
+08:16.040 - 08:19.400:  Human rights groups have called this a grim milestone
+08:19.420 - 08:22.000:  referring to the fact that this is the first woman
+08:22.000 - 08:25.240:  to be executed in Singapore for nearly two decades.
+08:25.240 - 08:29.320:  The last was another Singaporean woman, a hairdresser,
+08:29.320 - 08:32.160:  back in 2004, also for drug offenses.
+08:32.840 - 08:36.140:  And rights groups really make the same arguments every time
+08:36.140 - 08:39.800:  that this is not an effective deterrent against drug trafficking.
+08:39.800 - 08:42.400:  This isn't going to stop things like addiction.
+08:42.400 - 08:45.320:  And really that the main argument that people make time and time again
+08:45.320 - 08:48.180:  is that this doesn't go for the kingpins, you know,
+08:48.180 - 08:50.240:  for the organized crime element.
+08:50.240 - 08:53.260:  It just targets the mules, people who are in vulnerable positions,
+08:53.260 - 08:56.660:  people who frankly have to say must be in such a desperate position
+08:56.660 - 08:58.880:  in order to resort to this kind of thing,
+08:58.880 - 09:00.860:  given how strict the rules are here.
+09:01.180 - 09:04.080:  But if you're talking about the general population,
+09:04.840 - 09:08.360:  it has to be said that the vast majority of people here in Singapore
+09:09.100 - 09:10.100:  support the death penalty.
+09:10.100 - 09:13.100:  I mean, even anecdotally, you speak to people,
+09:13.100 - 09:15.980:  they say all they have to do is point to the situation,
+09:16.060 - 09:18.620:  for example, in Europe or in the United States,
+09:19.160 - 09:21.880:  the levels of addiction there, the havoc that has wrought
+09:22.040 - 09:23.360:  in this, say, well, we don't want this here.
+09:23.360 - 09:24.540:  And there are low levels of addiction.
+09:24.540 - 09:27.140:  There is low levels of drug-related crime.
+09:27.420 - 09:29.240:  So even though there's a lot of clamor internationally
+09:29.240 - 09:33.760:  and amongst the very small minority of activists here in Singapore,
+09:34.160 - 09:35.800:  things tend to just carry on as normal
+09:35.960 - 09:36.960:  when something like this happens.
+09:37.540 - 09:39.380:  Our Singapore correspondent, Nick Marsh.
+09:40.260 - 09:44.220:  A BBC investigation has found that Google's earthquake warning system
+09:44.220 - 09:46.760:  failed to alert many people in Turkey
+09:46.760 - 09:50.340:  before the country was hit by a series of powerful tremors in February.
+09:51.040 - 09:53.080:  Google's Android earthquake alert
+09:53.080 - 09:55.240:  is meant to give users up to a minute's notice
+09:55.240 - 09:56.640:  before an earthquake hits.
+09:57.180 - 09:59.120:  However, the BBC spoke to hundreds of people
+09:59.120 - 10:01.900:  in three cities in the earthquake zone in Turkey
+10:01.900 - 10:04.660:  and didn't find anyone who received a warning.
+10:04.660 - 10:06.900:  This report was put together by a Middle East
+10:06.900 - 10:10.520:  Coruscant Anna Foster and our North America technology reporter,
+10:10.520 - 10:11.360:  James Clayton.
+10:14.520 - 10:17.540:  It was one of the most deadly earthquakes in modern times.
+10:18.160 - 10:20.660:  February's quake happened in the middle of the night.
+10:21.380 - 10:24.500:  Many people died where they were sleeping in their beds.
+10:24.980 - 10:27.040:  50,000 people were killed.
+10:28.180 - 10:31.060:  However, there was an earthquake warning system
+10:31.060 - 10:32.920:  run by Google in Turkey.
+10:33.420 - 10:35.920:  And the company claims millions of people
+10:36.300 - 10:38.460:  got a warning before this earthquake.
+10:39.160 - 10:40.860:  It works on any Android phone.
+10:40.860 - 10:43.780:  That's about 80% of all the phones in Turkey.
+10:43.780 - 10:47.360:  And this is Google's online explainer on how it works.
+10:47.880 - 10:49.620:  Android phones have these tiny accelerometers
+10:49.620 - 10:51.760:  built into them, which can sense earthquakes.
+10:52.180 - 10:53.860:  People will now be able to have their phones
+10:53.860 - 10:56.180:  become part of this network of mini size monitors
+10:56.580 - 10:58.020:  looking for earthquakes around the world.
+10:58.460 - 11:00.640:  We call this the Android earthquake alert system.
+11:01.380 - 11:02.880:  When the phone detects an earthquake,
+11:02.880 - 11:05.540:  it sends a message back to Google service.
+11:06.020 - 11:09.740:  When enough phones do this, Google can pinpoint the epicenter
+11:10.100 - 11:12.160:  and send out an earthquake warning.
+11:12.780 - 11:15.520:  It looks like this and it has drop cover and hold.
+11:16.520 - 11:19.060:  This is Micah Berman, the product manager
+11:19.060 - 11:20.500:  for the system at Google.
+11:20.720 - 11:21.320:  It's pretty loud.
+11:21.380 - 11:23.160:  The further you are from the earthquake,
+11:23.160 - 11:27.180:  the more notice the system can give you up to around a minute.
+11:27.180 - 11:30.560:  Enough time to try and find a safer location.
+11:30.960 - 11:33.680:  So our system did activate for both of the major events
+11:33.680 - 11:36.360:  in Turkey, as well as for a number of aftershocks.
+11:36.760 - 11:38.800:  But my colleague in Turkey, Anna Foster,
+11:38.800 - 11:41.140:  says people in the areas hit by the earthquake
+11:41.140 - 11:43.100:  said they didn't receive an alert
+11:43.100 - 11:46.020:  before that first earthquake struck.
+11:46.420 - 11:48.080:  I was puzzled by this claim.
+11:48.600 - 11:50.380:  Nobody I'd spoken to in Turkey,
+11:50.660 - 11:52.300:  anywhere in the earthquake zone,
+11:52.600 - 11:54.460:  had told me that they received an alert
+11:54.460 - 11:57.580:  on their Android phone before the first quake.
+11:57.880 - 12:01.180:  So we decided to go to three cities that had been impacted.
+12:01.740 - 12:04.160:  Adana, Osmanier and Iskenderin,
+12:04.380 - 12:07.040:  and I simply asked people whether they'd received an alert.
+12:07.320 - 12:09.640:  Did you get this alert on your phone
+12:10.200 - 12:12.120:  at the time of the earthquake when you were sleeping?
+12:12.420 - 12:12.620:  No.
+12:13.380 - 12:15.020:  And what about, so it looked like that,
+12:15.240 - 12:16.220:  and it makes a sound?
+12:20.300 - 12:23.720:  No. No. No. No. No. No. No. No. No.
+12:24.100 - 12:25.740:  We spoke to hundreds of people.
+12:26.200 - 12:29.160:  Although we found some evidence that it worked in later tremors,
+12:29.440 - 12:32.140:  we didn't find a single person who'd got the alert
+12:32.140 - 12:33.600:  for the first earthquake.
+12:34.440 - 12:37.180:  Funda lost 25 members of her family,
+12:37.180 - 12:39.500:  including her sister and nephews.
+12:39.820 - 12:43.460:  So you didn't receive any alert, nothing on your phone?
+12:45.540 - 12:46.740:  I'm certain it didn't come.
+12:47.000 - 12:47.200:  Yep.
+12:47.840 - 12:49.320:  No. No message came.
+12:50.960 - 12:51.340:  I'm sure it didn't come.
+12:51.340 - 12:52.640:  I put our findings to Google.
+12:53.100 - 12:56.680:  How sure are you that it, firstly, it did fire?
+12:56.680 - 13:01.040:  Secondly, that it actually got to people during the earthquake?
+13:01.880 - 13:04.300:  I'm as sure as we can be that the system activated
+13:04.300 - 13:05.640:  and that we did send alerts.
+13:06.000 - 13:08.060:  Have you spoken to anyone who got it?
+13:08.260 - 13:09.000:  I have not. No.
+13:09.420 - 13:11.960:  Has Google spoken to anyone?
+13:12.580 - 13:12.940:  I don't know.
+13:13.400 - 13:15.840:  Harold Tobin is a professor of Earth Sciences
+13:16.220 - 13:19.220:  and director of the Pacific Northwest's seismic network.
+13:19.460 - 13:21.220:  These systems are extremely new, right?
+13:21.220 - 13:23.180:  They're at the cutting edge of what's possible.
+13:23.360 - 13:25.940:  I feel that if you are delivering
+13:25.940 - 13:28.980:  an essential sort of life safety, public safety,
+13:29.240 - 13:30.040:  piece of information,
+13:30.560 - 13:33.560:  then you have a responsibility to be transparent about
+13:33.560 - 13:36.460:  how it works and how well it works.
+13:36.840 - 13:39.280:  And yet, Google has not published evidence
+13:39.280 - 13:43.940:  that the system worked, system that could have saved lives.
+13:44.420 - 13:47.080:  That report by James Clayton and Anna Foster.
+13:48.100 - 13:50.520:  Scientists say they've revived a worm
+13:50.520 - 13:52.780:  that has lain dormant since Neanderthals
+13:52.780 - 13:55.040:  and Sabretooth tigers walked the Earth.
+13:55.520 - 13:58.080:  The creature has been in the Siberian permafrost
+13:58.080 - 14:02.380:  for 46,000 years, as I heard from Philip Schiffer
+14:02.660 - 14:03.680:  of the University of Cologne.
+14:04.360 - 14:06.020:  They were basically just frozen.
+14:06.440 - 14:08.160:  Think again of like winter is coming.
+14:08.160 - 14:09.480:  There's snow, there's ice.
+14:10.000 - 14:12.540:  They are living in the soil, five, 10 centimeters deep,
+14:12.540 - 14:14.040:  and the soil just gets frozen.
+14:14.040 - 14:17.100:  And in this case, it just stayed frozen for millennia.
+14:17.340 - 14:19.280:  But they don't die, they stay alive.
+14:19.920 - 14:22.360:  Yes, this is kind of something which is very tricky to say
+14:22.360 - 14:25.240:  because they don't have any metabolism going on.
+14:25.500 - 14:28.160:  So they are in a state which is between life and death.
+14:28.220 - 14:30.960:  So we can't say they are fully alive
+14:30.960 - 14:33.180:  because they don't crawl around, they don't feed,
+14:33.180 - 14:34.220:  they don't reproduce.
+14:34.720 - 14:36.020:  But obviously, they're also not dead
+14:36.020 - 14:38.480:  because they can come back to life.
+14:38.480 - 14:41.540:  So we could call it suspended animation, I guess.
+14:41.780 - 14:43.920:  Yeah, and tell us how you did bring them back to life.
+14:44.740 - 14:46.760:  Basically, it's just toying the soil.
+14:47.180 - 14:50.320:  So you couldn't do this today in your garden, actually,
+14:50.320 - 14:52.280:  with similar worms, when winter is over,
+14:52.280 - 14:54.960:  just take some soil indoors and it will tore
+14:54.960 - 14:57.840:  and then whatever is in there will start crawling out again.
+14:57.960 - 15:00.320:  So it's just gently toying the soil.
+15:00.580 - 15:03.160:  So just a bit of thawing to bring back to life,
+15:03.160 - 15:05.760:  something that's been in suspended animation
+15:05.760 - 15:07.880:  for 46,000 years.
+15:08.240 - 15:09.080:  That's correct, yeah.
+15:09.420 - 15:11.500:  So similar process, these worms,
+15:11.520 - 15:14.040:  they can also completely desiccate, lose all water.
+15:14.240 - 15:16.100:  For example, you find them in dry deserts.
+15:16.100 - 15:18.060:  That's why I'm here and you're straining out back now
+15:18.080 - 15:19.080:  and it would be the same.
+15:19.080 - 15:22.020:  You just put the nematodes which are completely desiccated
+15:22.480 - 15:24.900:  on a little agar plate, put some water on it
+15:24.940 - 15:26.460:  and after a while they start moving
+15:26.500 - 15:28.000:  because they come back to life
+15:28.000 - 15:29.840:  and that's the exact same process.
+15:30.520 - 15:32.100:  And they haven't aged at all?
+15:33.140 - 15:35.900:  No, but that's how do you define age in a worm?
+15:36.100 - 15:38.920:  So we don't see any signs of aging,
+15:38.920 - 15:40.260:  they live their normal lives,
+15:40.340 - 15:43.920:  but then their normal lives is 20 to 60 days or days.
+15:43.920 - 15:47.780:  So you revive them, they start feeding, make babies
+15:48.220 - 15:50.700:  and then they die after a few days.
+15:51.480 - 15:53.560:  So it's hard to say like you can't compare
+15:53.560 - 15:55.880:  to human age or aging in humans.
+15:56.140 - 15:58.660:  But these worms that you brought back to life after
+15:59.400 - 16:01.760:  tens of thousands of years have now died
+16:01.760 - 16:02.860:  after a matter of days.
+16:03.560 - 16:06.220:  Well, the initial worm died after a matter of days,
+16:06.280 - 16:08.240:  but because they start to live again
+16:08.380 - 16:10.540:  and because this is an asexual organism,
+16:10.540 - 16:13.720:  so they only have females, they instantly start laying eggs
+16:14.080 - 16:16.580:  from these eggs to get little worms hatching
+16:16.980 - 16:18.280:  and then you can establish a culture
+16:18.280 - 16:20.600:  and that was initially done by our colleagues
+16:20.600 - 16:23.520:  and now these cultures are in my lab in Cologne.
+16:23.520 - 16:27.120:  So I have, I don't know, 200 generations down the line
+16:27.120 - 16:28.080:  from the initial worms.
+16:28.080 - 16:29.580:  We still have these worms in culture
+16:29.840 - 16:31.200:  and because they're asexual,
+16:31.200 - 16:33.180:  they are basically clones of the original worms.
+16:33.180 - 16:36.100:  So they are basically genetically similar or the same.
+16:36.900 - 16:40.880:  And what does this tell us about how life can survive
+16:40.880 - 16:44.620:  for immense periods of time, not only on Earth,
+16:44.620 - 16:46.300:  but presumably across the universe?
+16:47.740 - 16:49.540:  Well, it basically means that some organisms
+16:49.540 - 16:53.160:  are not that much affected by extreme conditions
+16:53.700 - 16:54.320:  that might arise.
+16:54.320 - 16:56.740:  So freezing is an extreme event.
+16:57.020 - 16:58.760:  Same would be drying out
+16:59.260 - 17:03.200:  and these nematodes as well as rotifers and tardigrades,
+17:03.660 - 17:05.660:  they can survive for a very long time
+17:05.660 - 17:09.180:  when the environment is not habitable for them,
+17:09.560 - 17:11.040:  when conditions are too extreme
+17:11.680 - 17:14.300:  and they can just sleep and then come back
+17:14.500 - 17:15.600:  when life becomes good again,
+17:15.600 - 17:18.120:  when your environment changes to be being better for them.
+17:18.320 - 17:21.940:  And have you managed to find any comparable creatures
+17:21.940 - 17:24.200:  to compare how they would have changed
+17:24.200 - 17:26.300:  over all those, those millennia?
+17:27.140 - 17:28.920:  We're actually in a process of doing this.
+17:29.060 - 17:32.160:  So my team is very much interested in this process
+17:32.160 - 17:34.920:  in nematodes from the same group.
+17:35.400 - 17:38.720:  So this is panagolimus and we are currently sampling them
+17:38.720 - 17:40.580:  and we're sampling them in Sweden, in Germany,
+17:40.580 - 17:43.640:  but also in the Atacama Desert, in Namibia, here in Australia.
+17:44.300 - 17:46.600:  And we found closely related species
+17:46.940 - 17:48.740:  and right now in my lab at home,
+17:48.740 - 17:51.040:  people are comparing the genomes of these species
+17:51.040 - 17:53.960:  and we will go on doing molecular experiments
+17:53.960 - 17:57.860:  to see which changes occurred in the last 46,000 years
+17:57.860 - 18:00.540:  between these species and also try to unravel
+18:00.540 - 18:02.680:  the exact molecular and genetic process
+18:02.680 - 18:06.400:  of them being able to stay in suspended animation
+18:06.420 - 18:07.440:  for such a long time.
+18:08.060 - 18:10.220:  Philipp Schiffer of the University of Cologne.
+18:13.060 - 18:14.920:  Still to come on the global news podcast?
+18:14.940 - 18:17.120:  They're a little bit like Goldilocks.
+18:17.120 - 18:19.600:  They like the temperature just right.
+18:20.440 - 18:24.000:  What warming seas are doing to coral off the coast of Florida?
+18:24.700 - 18:27.340:  And we look at the life and career of Eagles co-founder
+18:27.340 - 18:29.940:  Randy Meisner, who's died age 77.
+18:37.920 - 18:40.600:  NetJets, the global private aviation leader,
+18:40.920 - 18:44.020:  is known for personalizing every detail of your travels
+18:44.400 - 18:46.540:  because NetJets standard is not just to meet
+18:46.540 - 18:47.920:  their definition of perfection.
+18:47.920 - 18:49.640:  It's to exceed yours.
+18:49.640 - 18:52.220:  Discover more at netjets.com.
+18:56.040 - 18:57.240:  The Israeli government's move to restrict the power
+18:57.420 - 19:00.520:  of the courts has exposed deep divisions in society
+19:00.520 - 19:02.860:  and even damaged the nation's economy.
+19:02.860 - 19:03.160:  There have been months of demonstrations
+19:03.260 - 19:07.540:  and many army reservists say they will not turn up
+19:08.480 - 19:09.840:  for duty and protest at the clampdown.
+19:11.260 - 19:12.640:  Now the head of the Air Force, Tomat Barz,
+19:12.640 - 19:16.280:  says the political crisis could embolden Israel's enemies
+19:16.280 - 19:19.080:  as we heard from our Middle East editor, Sebastian Asher.
+19:20.120 - 19:22.080:  This was an address to his forces.
+19:22.240 - 19:26.180:  And several sentences have been published online,
+19:26.180 - 19:28.820:  essentially, a warning again,
+19:29.360 - 19:32.160:  but also with a sense that Israel can deal
+19:32.160 - 19:34.180:  with any challenges that emerged.
+19:34.180 - 19:36.540:  So he said that it's possible,
+19:36.820 - 19:38.140:  I mean, this is his exact words,
+19:38.140 - 19:39.780:  possible better than time like this.
+19:39.780 - 19:42.560:  Israel's enemies were tried to test the frontiers,
+19:43.140 - 19:45.520:  Israel's cohesion and its alertness.
+19:45.580 - 19:47.740:  And then he added that he believed that his forces
+19:48.400 - 19:49.960:  would remain vigilant and prepared.
+19:49.960 - 19:52.680:  And this is after the first bill
+19:53.020 - 19:55.480:  in this radical overhaul of the judiciary
+19:55.480 - 19:56.980:  was passed back on Monday,
+19:57.580 - 19:59.860:  last Monday in the Israeli Parliament
+19:59.880 - 20:05.280:  and that had triggered an intense rise in the protests
+20:06.120 - 20:07.960:  in the days leading up to the vote.
+20:07.980 - 20:10.420:  And amongst that were more reservists saying
+20:10.420 - 20:12.640:  that they didn't feel they could report for duty
+20:12.640 - 20:15.820:  if this judicial overhaul becomes law
+20:15.820 - 20:18.120:  and amongst them very importantly,
+20:18.780 - 20:21.900:  was around 1,000 Air Force reservists,
+20:22.340 - 20:24.440:  vital really to Israel's capability,
+20:25.060 - 20:25.820:  who made that point.
+20:26.340 - 20:27.880:  And perhaps related to that,
+20:28.560 - 20:31.260:  reports that the Prime Minister Benjamin Netanyahu
+20:31.260 - 20:35.080:  has received four letters warning about all this
+20:35.120 - 20:36.800:  from Israel's military intelligence.
+20:37.440 - 20:39.020:  Yes, I mean, very much related.
+20:39.020 - 20:40.800:  I mean, these warnings are very much away,
+20:40.800 - 20:44.500:  as I say, that the reservists have framed their concerns
+20:45.260 - 20:47.000:  and obviously the fact that reservists are saying
+20:47.000 - 20:48.280:  that they weren't report for duty
+20:48.280 - 20:50.720:  has raised big questions about Israel's possible
+20:50.720 - 20:52.260:  military preparedness in the future.
+20:52.680 - 20:55.680:  So this has been fermenting for several weeks now.
+20:55.680 - 20:59.420:  But as you say, there is a report in an Israeli newspaper
+20:59.460 - 21:01.440:  today that at least four letters was sent
+21:01.440 - 21:03.040:  ahead of the vote last Monday
+21:03.580 - 21:05.080:  to the Prime Minister Benjamin Netanyahu
+21:05.080 - 21:07.680:  by senior military intelligence officers,
+21:08.340 - 21:12.560:  essentially saying that Israel's main antagonists Iran
+21:12.560 - 21:13.820:  and has been in particular,
+21:14.300 - 21:16.160:  see this as a historic opportunity,
+21:16.160 - 21:18.000:  what's going on in Israel at the moment,
+21:18.000 - 21:19.840:  this huge division within society,
+21:20.500 - 21:22.480:  this sense that people who are absolutely essential
+21:22.480 - 21:26.180:  to the defense of Israel may no longer wish to serve
+21:26.440 - 21:28.520:  with the government in place at the moment
+21:28.580 - 21:32.900:  and that they may well try to test that actively.
+21:33.400 - 21:36.700:  So it adds to this sense in Israel of crisis,
+21:37.360 - 21:39.500:  of the feeling that what Israel is based on,
+21:39.540 - 21:42.620:  which is very much its ability to people who've served
+21:42.840 - 21:44.180:  in the military when they were young,
+21:44.180 - 21:47.380:  continuing to do so voluntarily down the years
+21:47.380 - 21:48.600:  right into their forties,
+21:48.900 - 21:50.280:  that that may begin to fall apart
+21:50.320 - 21:51.720:  and that would absolutely tear
+21:52.100 - 21:53.660:  at the fabric of Israeli society.
+21:54.100 - 21:56.280:  On Middle East regional editor Sebastian Asha.
+21:57.080 - 21:58.640:  Since it began nearly eight weeks ago,
+21:58.640 - 22:02.700:  Ukraine's counteroffensive has made relatively slow progress
+22:02.700 - 22:05.860:  and there are suggestions that some allies are getting restless.
+22:06.580 - 22:07.920:  But over the past couple of days,
+22:07.920 - 22:09.940:  the pace appears to have intensified
+22:09.940 - 22:12.380:  with additional forces reportedly committed
+22:12.380 - 22:15.220:  in the effort to break through Russian lines in the South.
+22:15.900 - 22:18.420:  Now, Ukrainian troops say they've taken a village
+22:18.420 - 22:19.920:  called Stara Myosk.
+22:20.260 - 22:23.140:  Yuri Sack, advisor to the Ukrainian defense minister,
+22:23.520 - 22:25.820:  told the BBC that each gain was important.
+22:26.400 - 22:28.780:  For Ukrainians, every meter, every village,
+22:28.780 - 22:31.040:  every town is a milestone.
+22:31.040 - 22:33.880:  We've been saying this from the early youth
+22:34.080 - 22:35.920:  that our tactics is very simple.
+22:35.920 - 22:38.820:  We will continue to look for vulnerabilities
+22:38.820 - 22:42.500:  along the front line in the enemy ranks in that defense lines
+22:42.500 - 22:45.600:  and we will continue to exploit these vulnerabilities.
+22:46.320 - 22:48.360:  And as soon as we identify them,
+22:48.360 - 22:51.200:  of course, we will move in with more intensity.
+22:51.780 - 22:55.180:  I asked James Waterhouse, our correspondent in Kiev
+22:55.180 - 22:56.120:  for his assessment.
+22:56.560 - 23:00.020:  If it is indeed the case that Stara Myosk has been liberated,
+23:00.140 - 23:01.800:  then we're talking about an advance
+23:01.800 - 23:03.880:  of only a few kilometers.
+23:04.440 - 23:07.080:  I think this is a level up from Ukraine continuing to probe.
+23:07.080 - 23:10.200:  It seems to be possibly starting to put some eggs
+23:10.200 - 23:11.500:  into one of its baskets,
+23:11.500 - 23:13.940:  but I don't think it's enough to describe it
+23:13.940 - 23:18.260:  as being significantly different from the typical ebb and flow
+23:18.800 - 23:19.640:  from this front line,
+23:19.700 - 23:20.680:  because we have to remind ourselves
+23:20.680 - 23:22.360:  that Russia made advances of its own
+23:22.920 - 23:25.020:  just further north near Kremlin.
+23:25.020 - 23:27.680:  So very early days, but you can just see
+23:27.680 - 23:29.140:  from some quarters of the west.
+23:29.280 - 23:31.020:  While there is frustration in some areas
+23:31.020 - 23:32.360:  at the pace of progress,
+23:32.860 - 23:34.700:  there's a lot of excitement elsewhere,
+23:34.740 - 23:36.960:  where they're calling it the start of a meaningful thrust
+23:37.040 - 23:39.980:  that Kiev has refused to say whether this is the case.
+23:40.280 - 23:42.120:  Yeah, and just remind us of the geography
+23:42.120 - 23:43.520:  of this counter-offensive,
+23:43.700 - 23:45.840:  because this thrust that we're talking about
+23:45.840 - 23:48.320:  is different from the one around Bachmout.
+23:49.380 - 23:51.760:  It is. So Bachmout is in a direct,
+23:51.760 - 23:53.420:  easterly direction,
+23:53.600 - 23:55.540:  and it's become a place that I think
+23:55.540 - 23:57.620:  has become more symbolic than strategic,
+23:57.720 - 24:00.700:  where Russia spent the best part of the year trying to take it,
+24:00.740 - 24:03.680:  and now Ukraine is trying to flank the Russian forces
+24:04.120 - 24:05.440:  that now occupy the city.
+24:05.480 - 24:08.520:  But I think in terms of meaningful military development,
+24:08.680 - 24:10.140:  you just need to look further south
+24:10.160 - 24:12.060:  on the corner of this front line,
+24:12.620 - 24:15.280:  where Ukraine would dearly love to push through
+24:15.860 - 24:17.800:  and break through in a really significant way,
+24:17.800 - 24:18.960:  and push all the way through,
+24:19.540 - 24:21.320:  liberating cities like Melitoppel
+24:21.680 - 24:23.960:  before making it to the coast of the sea as of.
+24:24.300 - 24:25.380:  Why do they want to do that?
+24:25.380 - 24:28.780:  Well, that would effectively break a huge land corridor
+24:29.140 - 24:31.140:  that Russia occupies in half.
+24:31.520 - 24:32.480:  And if it was to do that,
+24:32.480 - 24:35.040:  it could effectively isolate tens of thousands
+24:35.040 - 24:35.520:  of troops,
+24:35.540 - 24:39.960:  and it could also make Crimea vulnerable for Russia.
+24:40.240 - 24:43.740:  And if you start to bring Crimea into a meaningful missile range,
+24:44.120 - 24:45.560:  you could possibly start to force
+24:45.560 - 24:48.040:  some kind of significant compromise
+24:48.040 - 24:49.360:  from Vladimir Putin himself.
+24:49.880 - 24:53.040:  However, it is hard to overstate
+24:53.220 - 24:54.700:  just how much needs to happen
+24:54.700 - 24:56.160:  for Ukraine to break through in that way.
+24:56.620 - 24:57.860:  James Watthouse in Kiev.
+24:58.560 - 25:01.680:  The US Embassy in Haiti has urged American citizens
+25:01.680 - 25:03.600:  to leave as soon as possible
+25:03.600 - 25:05.240:  because of clashes between the police
+25:05.240 - 25:07.860:  and armed gangs in the capital, Porto Prince.
+25:08.540 - 25:11.820:  They said they should find commercial means to depart.
+25:11.820 - 25:14.780:  The Caribbean country is undergoing a humanitarian
+25:14.780 - 25:16.240:  and security crisis
+25:16.780 - 25:18.600:  as it struggles with a political vacuum
+25:18.600 - 25:19.880:  triggered by the assassination
+25:19.880 - 25:22.200:  of President Driven al-Moyce two years ago.
+25:22.760 - 25:26.260:  Victoria Orn Kunder spoke to freelance reporter Harold Isaac
+25:26.260 - 25:29.180:  in Haiti and asked first for his reaction
+25:29.180 - 25:30.640:  to the US announcement.
+25:31.520 - 25:34.400:  Well, honestly, it comes as a total surprise.
+25:34.700 - 25:38.400:  And up to now, we're still trying to sort out
+25:38.640 - 25:43.540:  what is the scope of this requirement of evacuation.
+25:43.740 - 25:46.360:  It seems unclear because there is no event
+25:46.360 - 25:49.520:  really in the last few hours or days
+25:49.520 - 25:52.500:  that would warrant or justify such a measure.
+25:52.500 - 25:55.080:  So it's such an extraordinary measure in the context.
+25:55.720 - 25:58.260:  But the American Embassy in Haiti
+25:58.260 - 26:01.600:  is saying that it's because of the kidnappings
+26:01.600 - 26:03.120:  and the gangs and the violence,
+26:03.820 - 26:05.780:  especially in the capital, Porto Prince.
+26:06.640 - 26:08.380:  Have they come before and said,
+26:08.420 - 26:10.520:  this is something we're looking into?
+26:10.520 - 26:11.980:  I know you said it's a total surprise.
+26:13.660 - 26:15.160:  Well, since end of April,
+26:15.640 - 26:17.620:  let's say that the dynamic of kidnappings
+26:17.620 - 26:22.660:  has shifted with the emergence of the Guacay movement
+26:22.700 - 26:24.840:  which is a vigilantism movement
+26:24.840 - 26:27.580:  of civilians taking on gangs.
+26:28.120 - 26:31.840:  However, there's been somewhat of an uptick
+26:31.840 - 26:34.040:  in kidnappings in the last few days,
+26:34.540 - 26:37.220:  but nothing that sadly we're not accustomed to.
+26:37.580 - 26:40.220:  This vigilant movement that you say is taking on gangs
+26:40.220 - 26:42.480:  since April, some might want to know
+26:42.480 - 26:44.460:  where are the authorities, where are the police?
+26:46.100 - 26:48.260:  Well, the Asian authorities have been requesting
+26:48.300 - 26:51.700:  foreign military intervention since last October,
+26:52.340 - 26:53.620:  which has yet to materialize.
+26:53.840 - 26:58.060:  And as such, the population itself seems to have grown tired
+26:58.640 - 27:02.800:  and too con gangs directly through this civilian movement.
+27:03.260 - 27:07.520:  However, the calls for international interventions remain.
+27:08.120 - 27:09.980:  It's been discussed at various levels,
+27:09.980 - 27:13.220:  but there has yet to be any sort of realization
+27:13.300 - 27:15.200:  of such a force.
+27:15.740 - 27:18.720:  Harold Isaac in Haiti talking to Victoria Oon Kunder.
+27:19.560 - 27:21.200:  The head of the UN said yesterday
+27:21.200 - 27:24.100:  the planet was entering an era of global boiling
+27:24.100 - 27:26.780:  with July set to be the hottest month globally
+27:26.780 - 27:28.780:  for more than 100,000 years.
+27:29.500 - 27:31.940:  All this heat is having an impact not just on land,
+27:31.940 - 27:33.280:  but also at sea.
+27:33.880 - 27:36.440:  Scientists say that seawater off the coast of Florida
+27:36.440 - 27:38.400:  is potentially the hottest on record.
+27:38.400 - 27:41.180:  That's putting coral reefs near the Florida Keys
+27:41.180 - 27:42.780:  at risk of mass bleaching,
+27:42.820 - 27:46.440:  as we heard from US marine conservationist Sarah Fangman.
+27:47.040 - 27:48.620:  Corals are actually animals.
+27:49.040 - 27:50.840:  Not everybody realizes that.
+27:51.500 - 27:53.560:  And they're a little bit like Goldilocks.
+27:53.560 - 27:56.060:  They like the temperature just right.
+27:56.760 - 28:00.380:  And if it gets too hot, then they start to suffer.
+28:00.900 - 28:02.820:  And these temperatures that we're seeing now
+28:03.020 - 28:04.480:  are beyond their comfort zone.
+28:04.480 - 28:09.380:  And so they start to expel the symbiotic algae
+28:09.380 - 28:10.860:  that live in their tissues.
+28:11.180 - 28:12.460:  And that makes them white.
+28:13.000 - 28:14.260:  And we call that bleaching.
+28:14.780 - 28:18.080:  And we are seeing a significant amount
+28:18.320 - 28:20.920:  of the corals exhibiting that bleaching.
+28:21.500 - 28:25.100:  And sadly, in some cases, they aren't surviving.
+28:25.100 - 28:27.940:  Now, corals can survive bleaching,
+28:28.540 - 28:31.420:  but if it lasts too long or is too intense,
+28:32.160 - 28:34.020:  then they suffer and die.
+28:34.560 - 28:37.140:  But it's not just the corals that are being impacted by this.
+28:37.220 - 28:39.080:  We are hearing reports of fish kills.
+28:39.500 - 28:41.400:  So some of the fish that are larger
+28:41.940 - 28:43.840:  and can move greater distances,
+28:43.840 - 28:47.720:  they can swim to cooler waters to find refuge.
+28:47.820 - 28:51.280:  But some of the juvenile fish and invertebrates,
+28:51.700 - 28:53.460:  they can't either because they just
+28:53.460 - 28:56.480:  can't travel that far, or they choose not to,
+28:56.480 - 28:58.440:  because they're very vulnerable if they
+28:58.440 - 29:00.780:  leave their protected habitats.
+29:01.320 - 29:03.920:  And so we're definitely concerned that we're
+29:03.920 - 29:06.560:  going to see mortality in some of those organisms.
+29:07.200 - 29:09.320:  We're hearing also of algal blooms.
+29:09.740 - 29:14.360:  And so there's a pretty significant number of effects
+29:14.880 - 29:16.360:  that are already being seen.
+29:16.360 - 29:19.440:  And again, it's still early with this temperature event.
+29:19.540 - 29:20.640:  We're only in July.
+29:20.640 - 29:22.920:  Typically, we don't see these warmer temperatures
+29:22.920 - 29:24.380:  until August or September.
+29:24.860 - 29:26.820:  Marine conservationist Sarah Fangman.
+29:27.980 - 29:31.100:  Randy Meisner, one of the founding members of the Eagles,
+29:31.100 - 29:32.940:  has died age 77.
+29:32.940 - 29:35.560:  He sang and played bass with the US rock band
+29:35.560 - 29:37.480:  before quitting 46 years ago.
+29:38.040 - 29:39.740:  Wendy Urkart looks back at his life.
+29:40.620 - 29:49.500:  Show me the sun, take them to the limit one more time.
+29:51.000 - 29:54.120:  Randy Meisner was one of the founding members of the Eagles
+29:54.660 - 29:57.280:  and was crucial to the band's early success.
+29:57.800 - 30:00.500:  His vocals on take it to the limit still
+30:00.500 - 30:02.120:  sent shivers down the spine.
+30:02.120 - 30:06.920:  Randall Herman Meisner was born in Nebraska in 1946
+30:06.940 - 30:10.420:  and started playing guitar when he was just 10 years old,
+30:10.660 - 30:12.840:  after seeing Elvis Presley on TV.
+30:13.500 - 30:15.640:  He switched to the bass guitar at the suggestion
+30:15.640 - 30:18.700:  of one of his schoolteachers and never looked back.
+30:19.220 - 30:22.460:  He moved to California with a band called The Soul Survivors
+30:22.820 - 30:24.620:  or The Poor as they were renamed,
+30:24.700 - 30:28.960:  which was quite apt, considering they had absolutely no money.
+30:29.520 - 30:32.140:  Randy Don Henley-Glenfrey and Boney Ledin
+30:32.140 - 30:34.560:  formed the Eagles in 1971.
+30:35.020 - 30:37.040:  They signed with asylum records
+30:37.460 - 30:40.020:  and released their debut album a year later.
+30:41.380 - 30:44.280:  Welcome to the Hotel California.
+30:46.460 - 30:49.960:  Such a lovely place, such a lovely place.
+30:50.040 - 30:54.040:  Randy stayed with the Eagles until after their 1976 album
+30:54.340 - 30:57.560:  Hotel California, which was a massive hit.
+30:58.180 - 31:02.420:  But constant touring and arguments between band members took its toll.
+31:02.840 - 31:05.340:  And after a blow-up with Glen Frye,
+31:05.420 - 31:09.060:  he left the Eagles and went home to Nebraska in 1977.
+31:09.940 - 31:11.920:  He went on to release solo albums
+31:11.920 - 31:15.520:  and toured with his band Randy Meisner and The Silverados
+31:15.940 - 31:17.460:  throughout the 1980s.
+31:17.920 - 31:22.220:  But efforts to mend fences with members of the Eagles were rebuffed.
+31:22.700 - 31:24.780:  He did, however, appear at the rock and roll
+31:24.780 - 31:26.600:  whole of fame induction ceremony,
+31:26.600 - 31:29.500:  along with all previous members of the band
+31:29.500 - 31:34.220:  and Timothy B. Schmidt, who took over as bass player in 1977,
+31:34.220 - 31:37.600:  paid tribute to Randy in his acceptance speech.
+31:38.280 - 31:40.980:  Those who knew Randy Meisner described him
+31:41.040 - 31:43.360:  as a kind-hearted Midwestern guy
+31:43.860 - 31:46.320:  with a giant heart and a loving soul.
+31:56.900 - 31:59.160:  Randy Meisner, who's died age 77,
+31:59.560 - 32:01.480:  a report by Wendy Herkhardt.
+32:04.920 - 32:06.620:  And that is all from us for now.
+32:06.620 - 32:08.920:  But before we go, here's Jackie with details
+32:08.920 - 32:10.340:  of the latest happy pod.
+32:10.800 - 32:11.920:  Yes, in this week's edition,
+32:11.920 - 32:15.200:  bears and coffee growers living in harmony in Colombia.
+32:15.680 - 32:24.540:  Also how this is helping the Great Barrier Reef,
+32:24.800 - 32:27.840:  the US prisoners turning their lives around through education
+32:28.320 - 32:30.160:  and a very busy first day at work
+32:30.160 - 32:32.120:  for a 19-year-old lifeguard in Italy.
+32:32.400 - 32:34.580:  All that and more in the happy pod available
+32:34.580 - 32:36.640:  from Saturday the 29th of July.
+32:37.460 - 32:38.360:  Thank you, Jackie.
+32:38.360 - 32:41.040:  The global news podcast will be back very soon.
+32:41.060 - 32:43.020:  This edition was produced by Harry Blie
+32:43.020 - 32:44.360:  and Mixed by Chris Lovelock.
+32:44.580 - 32:45.920:  Our editor is Karen Martin.
+32:46.280 - 32:47.120:  I'm Oliver Conway.
+32:47.200 - 32:48.380:  Till next time, goodbye.
