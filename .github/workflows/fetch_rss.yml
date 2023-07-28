@@ -4,7 +4,7 @@ name: Run RSS fetcher
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '0 */4 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
