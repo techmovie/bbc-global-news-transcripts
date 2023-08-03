@@ -1,0 +1,296 @@
+00:00.060 - 00:05.560:  Hello, this is the Global News Podcast from the BBC World Service with reports and analysis
+00:05.560 - 00:11.680:  from across the world, the latest news seven days a week. BBC World Service podcasts are supported
+00:11.680 - 00:18.640:  by advertising. Hi, I'm Hannah and I'm very excited to be hosting what in the world a new daily
+00:18.640 - 00:24.320:  podcast from the BBC World Service, where we try to help you make sense of the world around you,
+00:24.500 - 00:28.740:  of the big things that are happening, the small things that are happening and everything in between.
+00:29.780 - 00:34.620:  Just search for what in the world wherever you get your BBC podcasts and hit subscribe.
+00:35.820 - 00:39.720:  This is the Global News Podcast from the BBC World Service.
+00:43.120 - 00:48.920:  I'm Nigel Adely and in the early hours of Thursday the 3rd of August, these are our main stories.
+00:49.660 - 00:55.460:  Major cities in Niger are facing rolling blackouts after Nigeria cut electricity supplies
+00:55.460 - 01:01.300:  to the country following last week's coup. Donald Trump is due to appearing court in Washington
+01:01.300 - 01:06.620:  later today, charged with trying to overturn the 2020 presidential election results.
+01:07.400 - 01:12.580:  Brazilian police have shot dead at least 10 people in Rio, in the latest of a series of deadly
+01:12.580 - 01:21.240:  raids across the country. Also in this podcast, we could see that we detected more cancers
+01:22.120 - 01:27.280:  without increasing the false positives and the same time we can reduce the workload for the
+01:27.280 - 01:32.960:  breast radiologist. A study from Sweden suggests that screening for breast cancer could be transformed
+01:33.020 - 01:35.720:  by the use of artificial intelligence.
+01:39.720 - 01:46.940:  We begin in West Africa. Major cities in Niger are facing rolling blackouts after Nigeria cut
+01:46.940 - 01:52.340:  electricity supplies to the country following last week's coup. The West Africa Regional
+01:52.340 - 01:59.120:  Block EcoWass imposed trade and financial sanctions on Niger on Sunday, giving the coup leaders
+01:59.120 - 02:05.440:  a week to install the country's democratically elected president. A delegation from EcoWass has
+02:05.440 - 02:10.380:  been sent to Niger to negotiate with the coup leaders. A military representative from the group
+02:10.820 - 02:17.160:  are meeting the Nigerian capital Aboujia to discuss the situation. Nigeria's chief of defense staff
+02:17.160 - 02:22.140:  Christopher Guarbit Musa told the meeting that African countries must act together.
+02:22.700 - 02:29.060:  The events that are transpired in one of our countries on 26 July 2023 has reverberated across
+02:29.060 - 02:34.600:  our borders affecting us all. The recent coup detour in the Republic of Nigeria is one
+02:34.600 - 02:40.580:  event that calls for our collective attention and a united response. We must face the challenges
+02:40.580 - 02:47.360:  of restoring democratic governance in Niger head on. Drain on our shared experiences,
+02:48.480 - 02:55.120:  wisdom and collective resolve. Our African regional editor Will Ross told me more about the current
+02:56.100 - 03:00.380:  negotiations. These talks are ongoing we think for at least another day and basically
+03:00.540 - 03:08.920:  these defense officials are saying that the military option in Niger is the very last resort
+03:08.920 - 03:13.780:  but they're saying it is still on the table and they're really using a sort of carrot and stick
+03:13.780 - 03:20.660:  method here. You've got the the EcoWass this West African regional grouping saying look you have
+03:20.660 - 03:28.720:  got a hand back power to the president of Niger, Mohammed Bazoum or there is a risk of military
+03:28.720 - 03:34.880:  intervention but at the same time they've sent in a delegation to have talks with those
+03:34.880 - 03:42.160:  military people who have seized power in Niger and there are efforts led by the former Nigerian
+03:42.160 - 03:49.800:  military ruler Abdul Salam Abu Bakr who's who's taken part in negotiations before. He's in Niger
+03:50.380 - 03:56.420:  along with the Sultan of Sokato the the most senior Muslim cleric in Nigeria who has quite a lot
+03:56.420 - 04:01.920:  of clout in the region so it's a kind of carrot and stick approach but they're certainly saying
+04:01.920 - 04:08.240:  for now that military option is still there on the table in case power is not returned to
+04:08.240 - 04:13.140:  to the president of Niger. And what effect are these sanctions and the power outages having
+04:13.140 - 04:18.800:  on the people in Niger? Well we've already seen queues at banks there's a limit on how much money
+04:18.800 - 04:24.620:  can be taken out that's partly because of financial restrictions imposed by EcoWass through its
+04:24.780 - 04:31.020:  bank. We're also hearing about Laurie's full of produce having to turn back and go back to Niyame
+04:31.020 - 04:36.180:  those Laurie's that were trying to leave the country and then perhaps significantly as you
+04:36.180 - 04:42.460:  mentioned the blackouts because Nigeria exports quite a lot of electricity to Niger and by cutting
+04:42.460 - 04:47.800:  off that power that's going to hurt people and really hurt businesses a lot. So the hope if that's
+04:47.800 - 04:53.800:  what Nigeria has done officially the hope is that that'll put pressure on people not to to follow
+04:53.800 - 04:59.920:  behind the military leaders who seize power and support them but instead to stand up and say come on
+04:59.920 - 05:06.940:  we need another way the military rule in Niger is not the way to go. Will Ross so what is life like
+05:06.940 - 05:13.180:  for people in Niger at the moment? Christian Fraser spoke to Saddi Suh Sani the chair of the
+05:13.180 - 05:20.140:  association of Niger's municipalities in Merandi a region that borders Nigeria with no electricity
+05:20.300 - 05:26.540:  he had to do his interview in his car. The owners of business are trying their best you know
+05:26.560 - 05:35.360:  our people are very resilient here so business is going on not normally but is going on with a lot
+05:35.360 - 05:42.160:  of concern a lot of anxiety I would say. Well a lot of concern and anxiety I would think with no
+05:42.160 - 05:47.740:  electricity I mean what does that mean to the local economy where you are? To the local economy
+05:47.740 - 05:58.180:  already prices are going high food products electrical gadgets because of the power cuts
+05:58.940 - 06:05.920:  and life is beginning to become more difficult it is already difficult you know in this part of the
+06:05.920 - 06:15.220:  world we are fighting security poverty and all those problems that you know but now it's like
+06:15.500 - 06:23.840:  things are becoming harder for people. Mr Sani you're an elected official but you are right so I
+06:23.840 - 06:27.880:  don't want to put you unduly on the spot because of the situation in the country but I wonder how
+06:27.880 - 06:33.960:  you feel about the change in leadership was it necessary? It isn't it isn't in fact
+06:35.400 - 06:42.280:  were shocked were shocked everybody knows it and Niger were partying with a lot of problems but
+06:43.160 - 06:49.680:  I think the government was doing relatively well relatively one has relatively in the region
+06:50.060 - 06:58.420:  and even compared to other governments that were there before and people are not complaining
+06:58.420 - 07:06.920:  to that level you know in a democratic process so people will be complaining they do they do
+07:06.920 - 07:13.280:  complain everywhere if they are all right so so I don't see any reason for this
+07:13.280 - 07:18.820:  school from from and my people the people um we are shocked.
+07:19.800 - 07:26.800:  Saddu Sani next to Senegal the country is seeing a surge in migrants attempting the Atlantic
+07:26.800 - 07:33.060:  route to reach Spain's Canary Islands almost 800 people have died or gone missing during the
+07:33.060 - 07:38.880:  first half of the year according to a Spanish NGO making it one of the deadliest sea routes
+07:38.880 - 07:44.940:  for migrants worldwide but despite the dangers many young people attempt to make the crossing
+07:44.940 - 07:51.720:  over and over again. Syritieri reports from Senegal and some may find the following
+07:51.720 - 07:59.800:  distressing. We're at a popular beach in the Senegalese capital Deca it's typical afternoon
+07:59.820 - 08:08.020:  but only at first sight just hours before firefighters were pulling bodies out of the sea
+08:08.020 - 08:13.820:  at least 17 migrants have drowned here on their way to Europe their capsized boats still drifting
+08:13.980 - 08:22.220:  in the distance. We saw the bodies with our own eyes our brothers we all cried so much
+08:28.920 - 08:34.160:  but there is nothing here in Deca everyone is dreaming of going to Europe I've been working for
+08:34.160 - 08:43.980:  years but all I've got is six pounds in my pocket. In Embour a fishing village just two hours south
+08:43.980 - 08:49.700:  of Deca around a hundred wooden boats line up along the beach they should be out at sea but there's
+08:49.700 - 08:56.400:  no one here to drive them their captains have left for Spain. I'm in a neighborhood where
+08:56.400 - 09:02.700:  several families have lost a husband or a son but many fishermen tell me they'd rather die at sea
+09:02.700 - 09:10.600:  than not try it all. Salliussea is taking water out of his pieroc a young father of six he has
+09:10.600 - 09:16.640:  set out to reach the Canary Islands three times already and almost died at sea yet he's getting ready
+09:16.640 - 09:23.440:  to try again. I have no other choice but to leave I have to take care of everyone in their daily
+09:23.440 - 09:30.320:  lives but he says ever since big foreign vessels started fishing along Senegal's coasts his nets
+09:36.740 - 09:41.220:  have come back empty. Youth unemployment is soaring in Senegal and those who make it to Europe reinforce
+09:41.220 - 09:49.240:  the idea that life is better there. This needs to stop it's not benefiting anyone for you to disappear
+09:49.240 - 09:56.800:  in the sea like that flies. In a suburb of Deca Mustafa the office talking to a group of young men
+09:57.220 - 10:02.800:  he too went to Spain but returned home and now warns others about the dangers of this sea crossing
+10:02.860 - 10:11.540:  and the false promises about Europe. You should stay here even though things are bad. If you keep
+10:11.540 - 10:16.960:  looking you will find something here. If you cross to Europe you're going there just to be on
+10:17.920 - 10:19.340:  the way to the sea.
+10:23.980 - 10:29.020:  Yet later at night when it's dark in the beaches are empty some of them will come back to this very
+10:29.020 - 10:35.740:  spot and wait for a pierog that might take them to Spain. Dying at sea they say here is better
+10:35.740 - 10:43.980:  than dying next to our mum. That report by Syra Tieri in Senegal. Supporters of Donald Trump are
+10:43.980 - 10:49.260:  rallying around the former president after he was indicted on four charges relating to alleged
+10:49.260 - 10:56.240:  attempts to overturn the result of the 2020 election. His campaign team have accused the US
+10:56.240 - 11:02.780:  Justice Department of interference in next year's presidential poll and compared Mr. Trump's
+11:02.780 - 11:09.500:  treatment to the persecution inflicted in Nazi Germany and the Soviet Union. The charges are
+11:09.500 - 11:15.040:  the most serious leveled against Mr. Trump so far with each count carrying a maximum sentence
+11:15.040 - 11:23.320:  of between five and twenty years in prison. He is due in court later today. Six co-conspirators
+11:23.320 - 11:28.600:  have also been listed in the indictment. From Washington here's our North America editor,
+11:29.100 - 11:33.460:  Sarah Smith. Donald Trump supporters and allies have been rallying to his defence,
+11:34.080 - 11:38.140:  claiming he's being unfairly targeted to try and stop him getting back into the White House.
+11:38.880 - 11:44.320:  And also that the latest charges against him will increase his popularity. Mr. Trump's former lawyer
+11:44.320 - 11:48.640:  Rudy Giuliani is believed to be one of the co-conspirators who's described in the indictment
+11:48.740 - 11:54.860:  as helping Mr. Trump try to subvert the election results. He argues it's not illegal to claim the
+11:54.860 - 12:00.720:  2020 election was fraudulently stolen. What they did here is an abomination that will live in history
+12:01.040 - 12:06.540:  as one of the worst violations of free speech ever in the history of a country that used to value
+12:06.540 - 12:09.600:  free speech more than the country on earth. We can't say that anymore.
+12:10.020 - 12:14.960:  Donald Trump frequently complains that the Biden administration has weaponized the justice system
+12:14.960 - 12:20.640:  to persecute him. The U.S. Attorney General, Merrick Garland insists many steps were taken to
+12:20.640 - 12:27.180:  ensure an entirely impartial investigation. Immediately after the January 6th attack on our democracy,
+12:27.180 - 12:32.300:  the career men and women of the justice department engaged in what has become the largest
+12:32.300 - 12:39.920:  investigation in our history. In November, last, I appointed Jack Smith, a special counsel to
+12:39.920 - 12:46.120:  take on the ongoing investigation in order to underline the department's commitment to accountability
+12:46.180 - 12:54.460:  and independence. Mr. Smith and his team of experienced principled career agents and prosecutors
+12:54.780 - 13:01.920:  have followed the facts and the law wherever they lead. Donald Trump insists he will continue his
+13:01.920 - 13:06.860:  presidential campaign even if he's convicted and jailed for trying to overturn the results of the
+13:06.860 - 13:11.820:  last election. His supporters are convinced he'll be found innocent and reelected. He's going to
+13:11.820 - 13:18.000:  beat the case. I think it's helping his popularity. Most people fully views a martyr just being
+13:18.600 - 13:25.500:  persecuted and I think they'll get more votes. Democrats, their new playbook is to whoever the
+13:25.500 - 13:31.200:  Republican nominee is, they're going to try to press criminal charges on him. Mr. Trump's next
+13:31.200 - 13:35.620:  court appearance will be in Washington. Next year, he'll have to fit his election campaign
+13:35.620 - 13:42.140:  around a busy schedule of court dates. Sarah Smith, a jury in the United States has sentenced
+13:42.140 - 13:47.380:  to death a gunman who murdered 11 people at a synagogue in the US city of Pittsburgh.
+13:48.260 - 13:53.480:  Seven other people, including five police officers were injured when Robert Baugh was open fire
+13:53.480 - 14:00.040:  at the tree of life synagogue five years ago. The federal jury agreed unanimously that he should
+14:00.040 - 14:05.660:  be executed. It's the first federal death sentence imposed under the Biden administration.
+14:06.520 - 14:12.100:  Jewish organizations have welcomed the verdict as a sign that the United States will not tolerate
+14:12.100 - 14:18.320:  hate and violence towards followers of their faith or any other. Gene Klickner is a member of the
+14:18.320 - 14:24.260:  synagogue and was there on the day of the massacre. I don't even know what to say about the verdict
+14:24.400 - 14:29.440:  because it's not a happy day. The room was quiet. Nobody was reacting. There was,
+14:29.960 - 14:34.600:  there's nothing to report. Everyone's just sitting there listening and even at the end,
+14:34.600 - 14:41.020:  I don't think there was a big gas or out anything. Yeah, it's terrible. It's really tough.
+14:41.760 - 14:47.600:  Jamie Raskin is a Democratic congressman from Maryland. He gave his reaction to the death sentence.
+14:48.300 - 14:54.380:  I have opposed the death penalty for a long time and I led the fight in Maryland to abolish
+14:54.380 - 15:03.400:  the death penalty. I think that the punishment of death is certainly way too good for the mass murderer,
+15:03.400 - 15:11.120:  this racist anti-Semite who assassinated worshippers at the tree of life synagogue. He should
+15:11.120 - 15:20.640:  be forced to endure his days with the rigors of hard time in prison and he should be an example
+15:20.640 - 15:29.160:  to others. A lot of these people who engage in these massacres at churches, supermarkets,
+15:29.160 - 15:34.940:  Wal-Mart's, what have you, turn the gun on themselves and kill themselves. They don't want to face
+15:34.980 - 15:41.720:  a guilty verdict and life in prison. That's my feeling about it, but I think this is obviously
+15:41.720 - 15:49.760:  the best case for the death penalty when you have unreconstructed Nazis who are essentially
+15:51.080 - 15:57.660:  setting themselves at war against humanity, but I still think that civilization can evolve
+15:57.660 - 16:02.000:  beyond the death penalty. Democratic congressman Jamie Raskin.
+16:03.100 - 16:07.820:  Police in Brazil say at least 10 people are being killed in a police operation in Rio.
+16:08.420 - 16:10.840:  Three others were hurt. Warren Ball reports.
+16:11.420 - 16:15.440:  A military police spokesman said officers had returned fire during an operation targeting
+16:15.440 - 16:19.960:  criminal gangs in a slum area in the north of Rio called Complace with Albania.
+16:20.280 - 16:25.020:  Officers say they acted after receiving intelligence on a high level meeting involving gang leaders
+16:25.340 - 16:29.400:  and that two of the people killed were heads of local favela, among the items seized
+16:29.400 - 16:35.020:  were rifles ammunition and grenades. Since Friday more than 40 people have been killed in police
+16:35.020 - 16:40.520:  operations in Brazil, 14 of them in clashes in São Paulo state. That prompted an intervention
+16:40.520 - 16:45.740:  by Brazil's Justice Minister Flavio Gino, who said the police reaction was not proportional to
+16:45.740 - 16:51.720:  the crime committed. Warren Ball. A study from Sweden suggests that screening for breast cancer
+16:52.120 - 16:58.140:  could be transformed by the use of artificial intelligence. The trial involved more than 80,000
+16:58.140 - 17:04.400:  women from Sweden with an average age of 54. Johnny Diamond spoke to the lead author Dr.
+17:04.400 - 17:11.940:  Cristina Long from Lundt University. In this trial, we randomized women to AI supported screening
+17:11.940 - 17:17.680:  and to normal screening. And normal screening is when two radiologists read each screening exam.
+17:18.440 - 17:25.300:  And we found some really exciting results because we could see that we detected more cancers
+17:26.120 - 17:31.320:  without increasing the false positives. And the same time we can reduce the workload for the
+17:31.320 - 17:37.500:  breast radiologist reading the screening examination by almost half. This is the first randomized
+17:37.500 - 17:43.700:  control trial where we see what actually happens when you use this in practice. Previous studies have
+17:43.700 - 17:49.760:  been so-called retrospective studies where you analyze AI on already collected images.
+17:50.500 - 17:54.980:  So they can give some hint on what the result would be when you use it in clinical practice.
+17:55.680 - 18:00.360:  But it's only an approximation of the truth. To do a randomized control trial is getting closer
+18:00.360 - 18:07.380:  to what the truth is. So how much crudely put radiologist time do you think you might be able to save
+18:07.380 - 18:13.520:  with the use of AI? Actually quite a lot because I mean it takes not a lot of time to read one
+18:13.520 - 18:18.180:  screening examination. So it can take less than one minute. But put together we can say that maybe
+18:18.180 - 18:25.520:  on average a radiologist or radiographer read 50 screening examinations per hour. So if we could
+18:25.840 - 18:32.600:  have the screen reading burden with AI, we could save substantial time. So for the 40,000
+18:32.600 - 18:38.340:  women that were in this AI-supported group, we calculated that we could save almost five
+18:38.340 - 18:45.180:  months of radiologist time. The inevitable question and one which radiologists, junior radiologists
+18:45.180 - 18:50.340:  might themselves, my fear is if it's this good, why do you have any humans involved at all?
+18:50.740 - 18:56.800:  This trial that we designed, it was really emphasized the central role of the radiologist
+18:57.680 - 19:03.280:  because as the AI algorithms are currently they cannot be used as a standalone method
+19:03.800 - 19:09.280:  because they are too sensitive. They react to too many findings in the images. So the radiologists
+19:09.280 - 19:13.360:  have to make the final decision whether or not they should be recalled or not because the
+19:13.640 - 19:18.180:  big risk is that if we use AI alone it will lead to too many false positives.
+19:18.520 - 19:22.600:  Is this a time saver or is it a life saver or is it both?
+19:23.120 - 19:28.340:  Well, it's definitely a time saver and whether it's a life saver that remains to be seen.
+19:28.680 - 19:34.000:  So my hope is that using AI and screening will lead to a screening program with a higher effect
+19:34.020 - 19:38.820:  that we can further reduce the mortality of breast cancer. And so far we can see that we detect
+19:38.820 - 19:43.660:  20% more cancer so it's very promising but that we have to put the whole picture together
+19:44.300 - 19:49.940:  what type of cancers do we detect and how many cancers do we miss. So in order to get the full
+19:49.940 - 19:54.420:  picture we need to wait for this two-year follow-up period to get more data on that.
+19:55.120 - 19:58.540:  Dr. Kristina Long from Lundj University in Sweden.
+20:01.820 - 20:06.880:  Still to come it was a great day for Jamaica and South Africa at the women's world cup
+20:06.880 - 20:10.560:  but was their success despite the support they received?
+20:11.080 - 20:16.140:  These women deserve to have backing and funding regardless and there's really no excuse
+20:16.140 - 20:20.780:  for these federations not to be backing and really supporting these women who are representing
+20:20.820 - 20:22.640:  their country equal to the men.
+20:30.140 - 20:34.840:  Hey, I'm Ryan Reynolds. At Mint Mobile we like to do the opposite of what big wireless does.
+20:35.080 - 20:40.020:  They charge you a lot, we charge you a little. So naturally when they announce they'd be raising
+20:40.020 - 20:45.200:  their prices due to inflation we decided to deflate our prices due to not hating you.
+20:45.500 - 20:50.500:  That's right we're cutting the price of mint unlimited from $30 a month to just $15 a month.
+20:50.920 - 20:53.420:  Give it a try at mintmobile.com slash switch.
+20:53.800 - 20:56.740:  New activation and upfront payment for three month plan required. Taxes and fees extra.
+20:56.900 - 20:59.280:  Additional restrictions apply. See mintmobile.com for full terms.
+21:04.920 - 21:06.280:  From the passion of the fans.
+21:06.720 - 21:08.320:  Yes, what did you think of the match though?
+21:08.320 - 21:12.280:  The match was amazing. It was so nice to see so many Nigerians coming up.
+21:12.400 - 21:14.540:  To the atmosphere of the competition.
+21:14.800 - 21:17.660:  The game, the crowd, the atmosphere was absolutely amazing.
+21:17.700 - 21:19.900:  I am now a converted New Zealand band.
+21:20.100 - 21:24.420:  World Football at the women's world cup is the podcast from the BBC World Service
+21:24.420 - 21:28.460:  capturing all the excitement of the tournament here in Australia and New Zealand.
+21:28.920 - 21:33.300:  Listen now by searching for World Football wherever you get your BBC podcasts.
+21:34.720 - 21:36.940:  Welcome back to the global news podcast.
+21:37.760 - 21:42.080:  The Greek government is offering free holidays to anyone who had a visit to the
+21:42.080 - 21:48.200:  island of roads cut short by wildfires. More than 20,000 people had to flee the island
+21:48.200 - 21:54.780:  last month. Now the Greek Prime Minister Kiriakos Mitsotakis says those tourists,
+21:54.780 - 22:00.940:  whose vacations were affected by the fires, can go back to roads next year for free.
+22:01.780 - 22:07.160:  I asked our Europe regional editor Paul Moss why he might be in the mood for such generosity.
+22:07.900 - 22:11.560:  There is a famous saying, beware of Greeks bearing gifts.
+22:12.160 - 22:17.040:  I should say we don't have any details yet from the Greek Prime Minister, Mr Mitsotakis,
+22:17.040 - 22:21.820:  one assumes that he's offering free accommodation though who knows, maybe he's planning to
+22:21.820 - 22:26.980:  fly people out to roads for free and throw in a few portions of Musaka and a bottle of
+22:26.980 - 22:33.300:  Uzo as well. But there is I think a reasoning behind this. Greece relies on tourism.
+22:33.300 - 22:38.780:  It's a key part of their economy and roads in particular needs tourists for financial
+22:38.780 - 22:43.260:  survival. They're very worried that those fires will put people off coming.
+22:43.260 - 22:46.840:  Travel agents have launched a whole campaign with this title,
+22:46.840 - 22:52.880:  Roads Is Safe. And they've even got a campaign video which they've posted online with a sort
+22:52.880 - 22:55.340:  of jaunty piece of music to accompany it.
+22:59.640 - 23:04.600:  Now when you watch this video I have to admit it's quite a cliché of a holiday advert we see,
+23:04.600 - 23:10.940:  Bikini-clad-baythers lounging lethargicly in a pool of a few more adventurous types diving off
+23:10.940 - 23:16.380:  appear. And then there are shots of a few ancient Greek ruins as well and overall of this there's
+23:16.380 - 23:24.000:  this caption, Roads Is Safe. Will this work? I'm not really certain that reassuring people that
+23:24.000 - 23:29.600:  Roads Is Safe can do anything except remind people that it might not be safe. I mean if you were to
+23:29.600 - 23:34.360:  get on an aeroplane and the captain said over the intercom fast on your seat belts and don't worry
+23:34.360 - 23:39.920:  this plane won't crash you might actually feel rather alarmed and wonder who said it would crash.
+23:39.920 - 23:45.600:  I mean most holiday destinations go with slogans like come to Kenya we have amazing wildlife
+23:46.320 - 23:50.720:  come to a beef you can get off your head and dance all night what they don't say is come to this
+23:50.720 - 23:55.560:  resort and we're we're pretty sure you won't get caught up in an out of control wildfire.
+23:56.360 - 24:00.740:  Being serious though the problem they have on roads indeed a problem they could soon have at
+24:00.960 - 24:06.720:  holiday destinations across southern Europe is that these wildfires are becoming ever more common
+24:06.720 - 24:12.520:  do people want to risk going on holiday in a disaster zone and isn't that ironic because tourism
+24:12.520 - 24:17.980:  encourages people to get on planes which then blast out carbon dioxide contribute to global
+24:18.040 - 24:22.660:  heating and then that self-same global heating may mean that those destinations become
+24:22.660 - 24:27.740:  insufferably hot not to mention at risk of burning down. Paul Moss
+24:28.920 - 24:34.400:  Scientists say a strange dangerous habit of targeting and ramming into small boats
+24:35.000 - 24:41.120:  is spreading through a population of critically endangered orcas. Research shows that 20 of the
+24:41.120 - 24:47.340:  fewer than 60 Iberian orcas in the Atlantic have now learned the behavior. It's believed that one
+24:47.340 - 24:53.120:  or two of the animals started interacting with and damaging vessels three years ago along the coast
+24:53.120 - 24:59.240:  of Spain Portugal and the Strait of Gibraltar. Our science correspondent Victoria Gill reports.
+25:00.300 - 25:10.620:  The sound of a nervous sailing crew in Gibraltar as five orcas nudge ram and spin
+25:10.620 - 25:17.100:  their yacht around. This incident in July is one of at least 100 this year and scientists are
+25:17.100 - 25:22.360:  trying to work out what's driving this strange new habit of targeting and damaging sailing boats.
+25:23.080 - 25:26.920:  Researchers have studied footage and photographs of some of the latest encounters between
+25:26.920 - 25:31.780:  sailing vessels and orcas and concluded that up to 20 animals in this small population
+25:31.780 - 25:36.660:  have now learned to do this by copying others. It's only a game, it's not a reverend,
+25:36.920 - 25:40.500:  it's not a climate change or nothing like that, it's just a game and that's it.
+25:40.700 - 25:45.180:  Dr Renard de Stefanis is president of a marine conservation organisation in southern Spain.
+25:45.180 - 25:50.480:  He's studied this critically endangered population of Iberian orcas since the 1990s.
+25:50.740 - 25:55.280:  He says the animals appear to focus their attention on the boat's rudder. In this underwater
+25:55.280 - 25:58.840:  recording you can hear an orcas shove the vessel's rudder with its head.
+26:03.240 - 26:07.520:  Dr de Stefanis and his colleagues are currently attaching satellite tracking tags to the animals
+26:07.520 - 26:12.940:  fins to map their movements. Thanks to the satellite tagging we're able to know exactly
+26:13.740 - 26:21.180:  how to say the sailing boat and water boat to leave the area and to not cross the main area of
+26:21.180 - 26:26.320:  the kilowatts. As large and powerful as these marine mammals are, scientists and conservationists
+26:26.480 - 26:30.800:  are concerned that they're putting themselves at risk as well as testing our willingness to
+26:30.800 - 26:38.900:  share the ocean with its wildlife. Victoria Gill, it was an extraordinary day at the women's
+26:38.900 - 26:45.020:  world cup as both Jamaica and South Africa caused huge upsets to reach the last 16.
+26:45.760 - 26:51.880:  South Africa beat Italy 3-2 thanks to a last-minute goal in Wellington and the Jamaicans
+26:51.880 - 26:56.900:  who wrote an open letter before the tournament complaining about a lack of support from the
+26:56.900 - 27:03.160:  country's football federation knocked out Brazil following a nil nil draw in Melbourne to become
+27:03.160 - 27:08.800:  the first Caribbean nation to progress from the group stage. I asked the former New Zealand
+27:08.800 - 27:15.000:  World Cup footballer Rebecca Smith who's in Sydney how important it was for the game to see both
+27:15.000 - 27:21.680:  South Africa and Jamaica make progress in the tournament. This is amazing Nigel. It's not only the
+27:21.680 - 27:26.360:  fact that they've got out of their groups but they've done it in style. They've done it showing
+27:26.360 - 27:31.760:  that they can play and compete with some of the best teams on the world stage including Brazil as
+27:31.760 - 27:38.040:  we saw Jamaica last night and Jamaica has still has not conceded a goal in this tournament and
+27:38.040 - 27:44.040:  that is a feat in and of itself specifically for South Africa as well. We don't often see the African
+27:44.040 - 27:49.100:  countries doing that well progressing into the deeper stages of the tournament and looking at the
+27:49.100 - 27:53.580:  lack of funding and some of the issues that both the Jamaican and South African teams have had
+27:53.840 - 27:58.560:  coming into this tournament specifically Jamaica where they were pretty much stuck in Amsterdam
+27:58.560 - 28:03.080:  on the way down to the tournament looking for funding where Sadella Marley was looking at crowd
+28:03.080 - 28:07.440:  funding and trying to get some money to get them back all the way down to the tournament. You just
+28:07.440 - 28:12.040:  wonder what these teams could do when their federations would actually back them. Do you hope that
+28:12.040 - 28:17.920:  their progress will be a wake up call for both the federations involved here and others who maybe
+28:17.920 - 28:22.600:  don't give women's football the respect it possibly should deserve in their country. Do you know what's
+28:22.600 - 28:29.960:  really sad Nigel? It shouldn't be that the backing and the funding of the federation is dependent
+28:29.960 - 28:36.180:  on the success of the national teams. These national teams have worked hard. These women deserve to
+28:36.180 - 28:41.680:  have backing and funding regardless. They are getting more money from FIFA for preparation money
+28:41.680 - 28:46.900:  ahead of the tournament for the very first time in this edition and there's really no excuse for
+28:46.900 - 28:52.160:  these federations not to be backing funding their national teams properly and really supporting
+28:52.160 - 28:59.140:  these women who are representing their country equal to the men who are doing that so yeah it's unfair
+28:59.140 - 29:04.580:  it's not it's not a positive situation but I think that the fact that they are winning is waking
+29:04.580 - 29:10.480:  the country up and potentially rallying a lot more of the population to force the federations
+29:10.480 - 29:16.240:  hand into funding them and into supporting them more which can only be a good thing. Rebecca Smith
+29:16.240 - 29:24.220:  in Sydney and that's all from us for now but there will be a new edition of the global news podcast
+29:24.220 - 29:30.040:  later. If you want to comment on this podcast or the topics covered in it you can send us an
+29:30.040 - 29:38.600:  email. The address is global podcast at bbc.co.uk. You can also find us on Twitter at global news
+29:38.600 - 29:45.120:  pod. This edition was mixed by Caroline Driscoll. The producer was Liam McCheffrey. The editor is
+29:45.120 - 29:49.220:  Karen Martin. I'm Nigel Adely. Until next time goodbye.
