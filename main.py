@@ -4,6 +4,7 @@ import requests
 import os
 import pickle
 from datetime import datetime
+import re
 
 
 RSS_URL = "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
@@ -64,7 +65,8 @@ def fetch_rss_audio():
             pubdate = entry["published"]
             formatted_date = datetime.strptime(pubdate, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
             year,month = formatted_date.split("-")[0],formatted_date.split("-")[1]
-            file_name = title.replace(" ","_")
+            file_name = re.sub('[:\s\'\"()]','_', title)
+            print("Downloading:", file_name)
             audio_file = f"{file_name}.mp3"
             with open(audio_file, 'wb') as f:
               file_content = requests.get(audio_url).content
