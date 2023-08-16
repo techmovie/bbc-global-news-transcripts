@@ -1,0 +1,640 @@
+00:00.060 - 00:05.560:  Hello, this is the Global News Podcast from the BBC World Service with reports and analysis
+00:05.560 - 00:08.740:  from across the world, the latest news seven days a week.
+00:09.200 - 00:12.620:  BBC World Service Podcasts are supported by advertising.
+00:16.220 - 00:16.940:  Hey, I'm Ryan Reynolds.
+00:16.940 - 00:20.900:  At Mint Mobile, we like to do the opposite of what Big Wireless does.
+00:21.140 - 00:23.560:  They charge you a lot, we charge you a little.
+00:23.900 - 00:28.020:  So naturally, when they announce they'd be raising their prices due to inflation, we
+00:28.020 - 00:31.280:  decided to deflate our prices due to not hating you.
+00:31.560 - 00:36.540:  That's right, we're cutting the price of Mint Unlimited from $30 a month to just $15 a month.
+00:36.980 - 00:39.440:  Give it a try at MintMobile.com slash switch.
+00:39.860 - 00:42.800:  New activation and upfront payment for three month plan required, taxes and fees extra,
+00:42.900 - 00:45.360:  additional restrictions apply, cementmobile.com for full terms.
+00:46.300 - 00:47.080:  That was a great dinner.
+00:47.320 - 00:47.780:  So great.
+00:47.980 - 00:48.840:  Wait, where'd you park the car?
+00:49.020 - 00:50.580:  Oh, the one I just sold to Carvana.
+00:50.720 - 00:50.960:  What?
+00:51.120 - 00:51.940:  When did you do that?
+00:52.080 - 00:55.460:  When you were still looking at the menu, I went on Carvana.com and all I had to do was
+00:55.460 - 00:59.080:  under the license plate or VIN, answer a few questions and got a real offer in seconds.
+00:59.300 - 01:00.420:  They picked up the car already?
+01:00.640 - 01:01.720:  No, I parked around the corner.
+01:01.820 - 01:04.640:  But they are picking it up tomorrow and paying me right on the spot.
+01:04.760 - 01:06.300:  Oh, no wonder you picked up the check.
+01:06.460 - 01:07.220:  Yeah, about that.
+01:07.860 - 01:08.580:  Thought we were going to have these.
+01:08.580 - 01:10.220:  Sell your car to Carvana.
+01:10.400 - 01:14.200:  Visit Carvana.com or download the app to get a real offer in seconds.
+01:19.040 - 01:22.260:  You're listening to the Global News Podcast from the BBC World Service.
+01:25.080 - 01:25.160:  Hello.
+01:25.360 - 01:26.220:  I'm Oliver Conway.
+01:26.220 - 01:29.620:  This edition is published in the early hours of Wednesday, the 16th of August.
+01:29.800 - 01:34.840:  Two years after seizing power in Afghanistan, the Taliban claimed the clamped down on women's
+01:34.840 - 01:36.180:  rights won't last forever.
+01:36.900 - 01:42.280:  More than a million people have now fled Sudan as aid agencies say the crisis is spiraling
+01:42.280 - 01:43.180:  out of control.
+01:43.980 - 01:49.200:  And the wife of the Ghanaian International Footballer, Christian Atsu, talks to the BBC about
+01:49.200 - 01:51.740:  the earthquake that took his life in Turkey.
+01:54.960 - 01:59.660:  Also in the podcast, alarm in China as the fertility rate hits a record low.
+02:00.340 - 02:00.960:  And...
+02:01.140 - 02:04.200:  We're coming up to the 50th anniversary, actually, of the cube having been invented.
+02:04.360 - 02:06.700:  Well, everyone has kind of had one or has one at home.
+02:06.920 - 02:10.680:  And I mean, I think it's kind of known for being impossible, being really hard.
+02:11.140 - 02:14.580:  How the Rubik's Cube keeps on going from strength to strength.
+02:19.700 - 02:25.180:  When the Taliban regained power in Afghanistan on the 15th of August 2021, they claimed they
+02:25.180 - 02:30.820:  would be less hard-lined in their previous incarnation of the late 1990s, when even television
+02:30.820 - 02:31.520:  was banned.
+02:31.520 - 02:37.680:  But two years on, they have reverted to type, declaring music to be immoral, and cancelling
+02:37.680 - 02:42.180:  the freedoms enjoyed by women and girls for two decades, as we heard in our earlier
+02:42.180 - 02:42.680:  podcast.
+02:43.380 - 02:47.840:  The Taliban have accused the West of using the issue to put pressure on them, but speaking
+02:47.840 - 02:53.140:  in a protest in Pakistan, to mark the anniversary of the takeover and Afghan women's rights
+02:53.140 - 02:58.400:  activists, more loader Tawana, called on the rest of the world to do more to highlight
+02:58.400 - 02:59.020:  their plight.
+02:59.420 - 03:07.340:  Still, now the international community are silent, and they do not talk or take any serious
+03:07.340 - 03:08.920:  decision against the Taliban.
+03:09.440 - 03:15.860:  Once again, we shout and we loud our voice, we want the international community to pay
+03:15.860 - 03:18.260:  attention to the situation of Afghanistan.
+03:18.800 - 03:24.880:  The Taliban say Afghanistan is much safer since their takeover, but the economy is in dire
+03:24.880 - 03:29.960:  trouble, and more than two-thirds of the population now needs humanitarian aid to survive, according
+03:29.960 - 03:30.680:  to the UN.
+03:31.300 - 03:35.780:  Our chief international correspondent, Lee Zduzet, was in Kabul as the Taliban took over
+03:35.780 - 03:36.620:  two years ago.
+03:37.020 - 03:39.420:  She told me more about what's changed since then.
+03:39.680 - 03:45.600:  Afghanistan feels and looks like a different country, the only country in the world where
+03:45.600 - 03:47.620:  girls are banned from going to high school.
+03:47.720 - 03:50.440:  Women are not allowed to work in many public spaces.
+03:50.440 - 03:55.120:  You mentioned about the humanitarian crisis, and of course the Taliban would say the things
+03:55.120 - 03:55.880:  have got better.
+03:55.880 - 04:00.240:  They say because we ended the occupation, the foreign forces are gone, security is better.
+04:00.240 - 04:04.640:  That is true, but of course, largely because the Taliban have stopped their suicide bombings
+04:04.940 - 04:06.840:  and explosions, corruption is less.
+04:07.140 - 04:12.300:  That is the case, but it is the plight of women and girls that seems to symbolize their
+04:12.560 - 04:14.600:  increasingly authoritarian rule.
+04:14.600 - 04:20.640:  And when I spoke to the Taliban spokesperson, Zabi al-Amojahad, I put it to him, the Afghan
+04:20.640 - 04:24.340:  government keeps saying that things are going to get better for women and girls, but they
+04:24.340 - 04:25.140:  keep getting worse.
+04:25.420 - 04:31.360:  No, Zinishan, it is not that some things have improved, a lot of things have improved.
+04:32.140 - 04:35.400:  Putting an end to four years of war is not a small thing.
+04:36.140 - 04:40.920:  Putting an end to occupation in expulsion of foreign forces is not a small thing.
+04:41.860 - 04:45.080:  I agree something still need to be done, but it has two angles.
+04:45.660 - 04:46.980:  One has to do with values.
+04:47.300 - 04:52.080:  These values have to be considered when decisions are made, for example, and women's job.
+04:52.880 - 04:56.040:  These circumstances have to be right in based on Sharia law.
+04:56.380 - 05:00.980:  Are you saying that these policies, these edicts will be lifted?
+05:00.980 - 05:05.140:  It's just a matter of time, because most people believe they seem to be there to stay.
+05:05.500 - 05:09.360:  No, because you know the Karjab women are working in some places now.
+05:10.080 - 05:11.720:  The same goes for girls education.
+05:11.780 - 05:15.420:  We have never said that these restrictions are going to be forever.
+05:15.460 - 05:22.320:  The Taliban spokesperson Zabi al-Amojahad, and when he says this is not forever, do Afghan
+05:22.320 - 05:25.580:  women and girls think anything could change any time soon for them?
+05:25.700 - 05:29.580:  Well, that's what they said the first time around when they ruled harshly in the 1990s.
+05:29.580 - 05:33.220:  They kept saying it's not forever, it will change, and of course it never did change.
+05:33.960 - 05:37.520:  And what we've seen over the past two years is that it just keeps getting worse.
+05:37.520 - 05:43.800:  The reality is that they seem bent on removing women from as many public spaces as possible.
+05:43.800 - 05:49.440:  It is narrowing so much, and you can imagine the desperate, desperate situation for young
+05:49.440 - 05:54.600:  girls, for women who tell me they sit at home, it feels like a jail, they stare at the
+05:54.600 - 05:56.900:  walls and listen to the clock.
+05:57.260 - 05:59.640:  And what is their rationale for doing this?
+05:59.640 - 06:02.060:  They can't just want to harm women for the sake of it.
+06:02.060 - 06:04.960:  They must, in their own minds, somehow think they're justified.
+06:05.520 - 06:09.020:  Earlier this year, Raleigh, I traveled with the number two in the United Nations,
+06:09.020 - 06:10.840:  Amin Mohamed, who is a Muslim herself.
+06:10.840 - 06:16.440:  She dealt with Boko Haram, who is of a similar yield to the Taliban in Nigeria, and she
+06:16.440 - 06:21.120:  spoke to the scholars there, and they said to her, we are doing this to protect women.
+06:21.460 - 06:25.800:  Some of them seem to believe that, but then others, including Zabi al-Amojahad, we spoke
+06:25.800 - 06:29.220:  to, he says, no, no, no, we are going to change it, but things have to be Islamically
+06:29.220 - 06:29.520:  correct.
+06:29.700 - 06:33.240:  And we say, well, you have boys and girls who separate, you have male and female teachers,
+06:33.480 - 06:36.940:  but we think they are doing a complete overhaul of the curriculum.
+06:36.940 - 06:42.520:  And we think that there are conservative Taliban, and behind them, the Islamic State Group,
+06:42.600 - 06:45.820:  who are saying we can achieve a pure Islamic State.
+06:45.820 - 06:47.580:  And the Taliban are really cognizant of that.
+06:47.580 - 06:49.300:  They have to think about their fighters.
+06:49.380 - 06:55.080:  The fighters they promised victory, which they gave to them, but also a pure Islamic State.
+06:55.080 - 06:57.620:  They don't want to lose their supporters.
+06:58.100 - 07:02.240:  The Islamic State Group, which is a national unity, unity of the Taliban, matters to them
+07:02.640 - 07:03.320:  above all else.
+07:03.700 - 07:06.100:  Our chief international correspondent, Lee Zduzet.
+07:06.520 - 07:12.260:  The Iraqi Prime Minister has ordered the reconstruction of Koccho, a village in northern Iraq, where
+07:12.260 - 07:17.120:  the Islamic State Group carried out one of its worst atrocities against members of the Yazidi
+07:17.120 - 07:19.240:  religious minority nine years ago.
+07:19.620 - 07:22.620:  Our Arab affairs editor, Sebastian Asha, has the details.
+07:23.080 - 07:27.760:  Islamic State fighters acted with special savagery towards the Yazidis in Iraq, whom they
+07:27.760 - 07:29.080:  considered to be heretics.
+07:29.560 - 07:34.720:  They rampaged through the Sinjo region, killing thousands of men in staving both women and
+07:34.720 - 07:35.120:  children.
+07:35.580 - 07:40.180:  They surrounded the village of Koccho, giving its inhabitants two weeks to convert to the
+07:40.180 - 07:42.820:  IS version of Islam when they didn't.
+07:43.080 - 07:48.820:  On this day in 2014, the jihadist seized hundreds of the male villages and killed them.
+07:49.120 - 07:50.760:  Some were shot, others beheaded.
+07:51.160 - 07:55.180:  Koccho became a symbol of IS brutality against the Yazidis.
+07:55.820 - 08:00.400:  Maybe from the ancient community have yet to return to Sinjo, where mass graves are still
+08:00.540 - 08:01.340:  being uncovered.
+08:01.380 - 08:06.480:  The region remains unstable, lacking much of the reconstruction and redevelopment that
+08:06.480 - 08:08.460:  the Yazidis have long demanded.
+08:09.060 - 08:09.860:  Sebastian Asha.
+08:10.780 - 08:15.420:  Since war broke out between rival military factions in Sudan four months ago, more than
+08:15.420 - 08:19.480:  a million people have fled to neighboring countries, according to the latest figures from
+08:19.480 - 08:19.940:  the UN.
+08:20.020 - 08:25.560:  A further three and a half million are displaced inside Sudan's borders, where they're
+08:25.560 - 08:27.900:  running out of food and access to medical supplies.
+08:28.560 - 08:32.380:  One of the international groups trying to get aid into Sudan is save the children.
+08:32.580 - 08:39.800:  It says that, by next month, 17,000 children will be experiencing extreme hunger every
+08:39.800 - 08:40.120:  day.
+08:40.480 - 08:46.200:  The BBC's Richard Hamilton spoke to the charity's deputy director in Sudan, Wael Musa.
+08:46.480 - 08:51.380:  He is now in port Sudan, but spent weeks trying to avoid clashes between the army and
+08:51.380 - 08:55.120:  the rival paramilitary rapid support forces in the capital cartoon.
+08:55.660 - 09:01.840:  I live in an area where families will be slightly on the upper class, middle upper class
+09:02.460 - 09:02.760:  segment.
+09:03.300 - 09:09.180:  And being in the war zone for 40 days, experiencing everything, I could find my neighbors struggling
+09:09.180 - 09:14.320:  just to find a small loaf of bread because like everything was cut off in cartoon.
+09:14.920 - 09:21.680:  The situation, like now, I left cartoon around now a month, I can only wonder how the
+09:21.680 - 09:23.220:  situation is but now.
+09:23.820 - 09:26.140:  So how did you get out of cartoon yourself?
+09:27.100 - 09:29.840:  Honestly, it was a very intense trip.
+09:30.160 - 09:32.700:  So I live in an area called Cartoon North.
+09:33.060 - 09:40.120:  After RSF forced the way into our house, I had to evacuate initially to another area called
+09:40.280 - 09:40.780:  Endurman.
+09:40.820 - 09:46.300:  We decided there was my family for a couple of days until I was able to find a book in
+09:46.460 - 09:50.120:  a full of books that goes outside of Cartoon to reach the course in an area.
+09:50.620 - 09:54.240:  And is your family okay or are some of them still stuck in the capital?
+09:54.860 - 09:59.640:  So my immediate family is no, they're all okay, but then some of the extended families
+09:59.640 - 10:02.500:  are in the capital and this is another issue.
+10:03.100 - 10:07.760:  You cannot even check with them properly because in Cartoon, I think even the communications
+10:07.760 - 10:09.240:  are much worse.
+10:09.640 - 10:13.160:  And therefore, I don't think you can even contact us at some point.
+10:13.580 - 10:19.280:  Is save the children trying to get aid supplies into Darfur or is it impossible?
+10:19.780 - 10:27.580:  Right now, we are looking at UN agencies to provide some aid support in North Darfur.
+10:27.580 - 10:32.940:  The situation is very dynamic and very fortified, a lot could change in a matter of one hour.
+10:33.400 - 10:39.800:  But I understand that with looting, it makes it even worse in terms of food prices and
+10:39.800 - 10:40.300:  supplies.
+10:40.840 - 10:41.380:  Exactly.
+10:41.380 - 10:42.300:  Exactly.
+10:42.300 - 10:48.860:  Like, number of other INOs reported that even within Cartoon were they able to get some
+10:48.860 - 10:49.540:  supplies in.
+10:49.540 - 10:50.340:  It was looted.
+10:50.780 - 10:56.120:  But then also for the outpour, the route that you have to take by land, even before the
+10:56.120 - 10:58.700:  war, it was not 100% safe.
+10:59.060 - 11:01.380:  Previously, we had the auction of air drops.
+11:01.640 - 11:05.980:  But now since the space of Sudan is closed, we cannot transfer anything by air.
+11:06.220 - 11:11.600:  So the risk of looting is actually increasing, especially if it's medical supplies or food
+11:11.600 - 11:11.940:  items.
+11:14.160 - 11:14.180:  Yeah.
+11:14.180 - 11:17.240:  So it must be absolutely heartbreaking for you as a Sudanese person yourself.
+11:17.740 - 11:23.580:  Living in the middle of the war zone, I was staying in an area where we did not have
+11:23.940 - 11:27.060:  water supply, water was cut off, we did not have power.
+11:27.540 - 11:34.660:  So dramatically, you find yourself either going out to some areas where you have water supply
+11:34.660 - 11:39.720:  under the fine bullets and risk your life or just the same side and die of thirst.
+11:40.420 - 11:44.420:  Well, Musa of Save the Children in Sudan, he was talking to Richard Hamilton.
+11:45.460 - 11:50.640:  The US President Joe Biden says he will travel to Hawaii as soon as he can to survey the
+11:50.640 - 11:54.760:  damage and meat survivors of the wildfires that killed at least 99 people.
+11:55.360 - 11:59.660:  Kids are still missing and the authorities say the number of dead will continue to rise
+12:00.120 - 12:03.600:  as crews working with cadaver dogs search the ashes.
+12:04.140 - 12:07.140:  Their fear as the island is about to be hit by more storms.
+12:07.700 - 12:11.800:  Sophie Long has been to the devastated town of Lahaina on the island of Maui.
+12:14.580 - 12:20.360:  Survivors say the sound of the wind that night was like the roar of a jet plane exploding
+12:29.260 - 12:29.380:  in cars like bombs going off.
+12:29.380 - 12:34.420:  They describe how the smoke made them choke and vomit as they ran for their lives with
+12:34.420 - 12:35.420:  their backs burning.
+12:35.420 - 12:40.360:  And everything's dark so I look to my left and I'm literally right next to this car
+12:40.360 - 12:45.160:  where this grandmother is yelling for help and she's just telling me please help me
+12:45.160 - 12:46.000:  I have a baby.
+12:46.580 - 12:51.300:  Singing for her life with her own three children Akhenasi Vah carried another little girl
+12:51.300 - 12:51.980:  to safety.
+12:52.520 - 12:54.340:  Her own children were old enough to run.
+12:54.980 - 12:59.280:  We run to the corner and we meet up, we meet there and we just notice that we're at
+12:59.280 - 12:59.900:  a dead end.
+13:00.680 - 13:05.200:  You know my son was like oh mom is this it and I mean what do you tell your kids?
+13:05.200 - 13:10.300:  Say some for them but there's a pallet right there and there's a pallet jack.
+13:11.360 - 13:16.420:  Nearly a week later in local people like Aemari Marry continue to load cars with supplies
+13:16.420 - 13:18.640:  they say people still desperately need.
+13:19.620 - 13:26.380:  So we're just trying to get supplies as fast as possible into the affected areas so that
+13:27.340 - 13:28.120:  people get what they need.
+13:28.120 - 13:34.260:  There is a lack of response it felt like from larger organizations.
+13:34.760 - 13:37.660:  We followed Aemari's convoy into the worst affected area.
+13:38.340 - 13:42.240:  The views along the way were a reminder of what makes Maui so magical.
+13:43.140 - 13:47.480:  As we arrived on the outskirts of Lahaina we saw what's broken its heart.
+13:48.000 - 13:53.780:  The once colourful historic town has been transformed into a bleak moon scape where many
+13:53.780 - 13:56.160:  of its inhabitants remain unrecovered.
+13:57.380 - 14:00.640:  Some of the houses that survived have become unofficial aid hubs.
+14:01.200 - 14:06.060:  People like Alex Freeman are doing their best to distribute the donations coming in but
+14:06.060 - 14:10.780:  he, like others who remain, are frustrated by the lack of clear information.
+14:11.100 - 14:14.760:  We got another hurricane that could touch down tropical depression and I barely have
+14:14.760 - 14:18.280:  data in and out so we don't know what's going on weather wise, we don't know what's going
+14:18.280 - 14:20.440:  on down the street unless somebody comes and tell us.
+14:20.800 - 14:22.660:  We've got no power, no running water.
+14:22.820 - 14:27.280:  So it depends on you ask and I got the official notice of contamination for water, somebody
+14:27.280 - 14:30.900:  at the hotel knows a guy that says hey it's okay, somebody that says hey do not, don't
+14:30.900 - 14:33.800:  even wash your dishes, conflicting information constantly.
+14:33.800 - 14:37.420:  Some people tell us that people down the street don't even know where here, no communication
+14:37.420 - 14:38.000:  whatsoever.
+14:38.720 - 14:41.420:  And how do you feel when you look at what's happened, when you...
+14:41.460 - 14:44.440:  I mean it's devastating, I mean you can't even fathom that like right on the other side
+14:44.440 - 14:46.860:  of that wall or corpses, like it's literally right there.
+14:50.260 - 14:55.020:  The children are few doors down, we're here in the hyena as it burned, their parents are
+14:55.020 - 14:56.440:  unable to get back from work.
+14:57.140 - 15:02.420:  It was an excruciating 48 hours before Lawley Boonegar learned if her five-year-old son
+15:02.440 - 15:03.120:  had survived.
+15:03.280 - 15:05.760:  And all that time you didn't know what happened, didn't you?
+15:06.000 - 15:09.860:  I don't know, I were alive, that's all that matter, right now.
+15:11.260 - 15:16.080:  What happened here was one of the most horrifying and lethal disasters to take place in the
+15:16.140 - 15:17.600:  United States for many years.
+15:18.440 - 15:22.580:  Nearly a week later and the search and recovery operation is still ongoing.
+15:23.240 - 15:28.340:  Hawaii's Governor Josh Green says he expects the search teams to recover between 10 and
+15:28.340 - 15:32.860:  20 bodies every day until their grim and difficult task is done.
+15:33.620 - 15:35.380:  He couldn't say when that would be.
+15:36.520 - 15:39.080:  So if you long in the hyena in Hawaii.
+15:40.480 - 15:43.440:  Next to a toy that's been around for nearly 50 years.
+15:43.760 - 15:48.920:  There's never been a puzzle quite like Rubik's Cube and America may never be the same.
+15:49.340 - 15:52.120:  A medical journal has written about a unique phenomenon.
+15:52.900 - 15:58.340:  Well they are still popular so much, so in fact that the first Rubik's world championships
+15:58.340 - 16:00.860:  have been taking place in South Korea.
+16:01.440 - 16:05.580:  And being postponed because of the pandemic, contestants will be solving the cube at lightning
+16:05.580 - 16:09.280:  speed, doing it blindfolded or just with one hand.
+16:09.840 - 16:14.940:  James Menendez spoke about the event to George Schloy, himself a world record holder.
+16:15.360 - 16:18.500:  It's amazing, it's got thousands and thousands of positives from all over the world.
+16:18.760 - 16:23.120:  We're all together in this massive venue and there's a big space for people to just
+16:23.120 - 16:25.800:  expectate and then there's also the space for competing.
+16:25.800 - 16:29.580:  But it's not one to one competition as you would get in a lot of sports.
+16:29.620 - 16:32.020:  You're competing against yourself when it comes to the finals.
+16:32.020 - 16:34.500:  That's when it is more of a head to head tournament.
+16:34.740 - 16:38.420:  And am I really thinking that the most prestigious event is the speed record.
+16:38.420 - 16:41.600:  How fast someone can solve the Rubik's Cube?
+16:41.800 - 16:43.480:  Yeah, I'm always trying to be the clock.
+16:43.480 - 16:46.680:  But to be honest, average time is considered more prestigious.
+16:46.980 - 16:49.620:  Getting a single soul can sometimes rely on luck,
+16:49.620 - 16:52.180:  getting the best average soul relies on skill.
+16:52.380 - 16:55.160:  And how do you solve a Rubik's Cube so fast?
+16:55.160 - 16:57.720:  The world records about just over three seconds.
+16:57.860 - 17:00.720:  But what I can't understand is having played around with one
+17:00.720 - 17:03.220:  when I was younger, can't quite get my head round.
+17:03.220 - 17:07.140:  How someone can just physically move the Cube so quickly?
+17:07.540 - 17:08.240:  It comes from practice.
+17:08.380 - 17:11.960:  You spend a lot of time moving the Cube and you just work out which moves feel right.
+17:11.960 - 17:16.300:  And then you just build up this repertoire of what we call finger tricks over time.
+17:16.300 - 17:18.420:  Just use the right fingers for the right moves.
+17:19.100 - 17:20.020:  Easier said than done.
+17:20.260 - 17:24.280:  You hold the world record for completing the most Rubik's Cube's in 24 hours.
+17:24.620 - 17:25.460:  How many was that?
+17:25.620 - 17:27.540:  That was 6,931.
+17:27.540 - 17:28.160:  My goodness.
+17:28.420 - 17:30.600:  And what state were your hands in after that?
+17:30.780 - 17:31.440:  There's a good question.
+17:31.440 - 17:35.000:  Keeping, I wouldn't call it sport because of the fact there is no physical exertion.
+17:35.140 - 17:38.260:  But I feel like I was on the cusp of that because my hands were feeling pretty tired
+17:38.260 - 17:40.600:  around the kind of 18 to 20 hour mark.
+17:40.980 - 17:43.260:  Mainly just cramping, so I just put them in cold water
+17:43.520 - 17:45.280:  to try and recover them every few hours.
+17:45.720 - 17:47.800:  And what about the relationship between the competitors?
+17:47.840 - 17:52.520:  Is it all pretty congenial or do people get quite competitive with each other?
+17:52.700 - 17:54.780:  I'd be very safely say this is one of the most
+17:54.780 - 17:59.680:  wholesome communities that exists around any sport, any hobby, anything.
+17:59.680 - 18:01.880:  We're so inclusive, everyone is so kind.
+18:01.880 - 18:05.580:  We all get on, it's just a massive group of friends that meet up
+18:05.860 - 18:07.600:  these huge competitions around the world.
+18:07.800 - 18:09.940:  Not about beating anyone, it's about beating yourself.
+18:09.940 - 18:11.960:  Get your own times, try and get faster.
+18:12.300 - 18:15.200:  It was designed in the 1970s, 1974, I think.
+18:15.280 - 18:17.340:  Yeah, we're coming up to the 50th anniversary, actually,
+18:17.340 - 18:18.660:  of the Cube having been invented.
+18:19.020 - 18:20.760:  Right, that's going to be a big one for you guys.
+18:20.920 - 18:23.460:  You know, lots of these things are just crazies that come and go.
+18:23.520 - 18:25.120:  But the Rubik's Cube is endured.
+18:25.120 - 18:26.200:  Why do you think that is?
+18:26.500 - 18:28.580:  Such a vital part of pop culture.
+18:28.720 - 18:30.800:  It's always been present since it was invented.
+18:31.160 - 18:34.620:  It's, you know, movie sets, everyone has kind of had one or has one at home.
+18:34.760 - 18:37.380:  And I think it's just endured just due to his physical appeal.
+18:37.600 - 18:41.340:  And I mean, I think it's kind of known for being impossible, being really hard.
+18:41.340 - 18:44.080:  Which I promise you, it's not, it's very accessible to get good at.
+18:44.320 - 18:46.220:  I think lockdown obviously played a part in that.
+18:46.300 - 18:49.000:  This world championship has been a real insight for me
+18:49.000 - 18:51.740:  into how big it has become in the eastern parts of the world.
+18:51.760 - 18:53.840:  In China now, you wouldn't even believe this is the truth.
+18:53.840 - 18:59.160:  They have their own cubing coaching conventions about the coaching of cubas to make them faster.
+18:59.420 - 19:00.740:  That's how big it's got up here.
+19:00.940 - 19:02.180:  It's just got a lot bigger.
+19:02.780 - 19:04.800:  George Shlowy talking to James Menendez.
+19:07.560 - 19:09.840:  And still to come on the global news podcast.
+19:10.080 - 19:11.220:  This is great.
+19:11.360 - 19:12.080:  It's new.
+19:12.080 - 19:13.300:  After all these years.
+19:13.300 - 19:14.000:  Absolutely.
+19:14.760 - 19:16.080:  We've missed each other.
+19:16.320 - 19:17.220:  I know.
+19:18.520 - 19:18.880:  I know.
+19:18.940 - 19:19.460:  I know.
+19:19.920 - 19:24.040:  The pen pals meeting for the first time after nearly 70 years.
+19:31.760 - 19:35.100:  For decades, China was worried about its ever-growing population
+19:35.100 - 19:38.720:  going so far as to ban families from having more than one child.
+19:38.820 - 19:44.160:  Now it has the opposite problem after its population began shrinking last year.
+19:44.840 - 19:47.820:  On Tuesday, we got an indication of the severity of the decline
+19:47.820 - 19:51.420:  when a state-backed newspaper revealed that China's fertility rate
+19:51.420 - 19:58.920:  had reached a record low of 1.09 compared to the 2.1 needed for a stable population.
+19:59.620 - 20:02.760:  More than 40% of women in China are now childless.
+20:03.200 - 20:05.600:  So why is the fertility rate there so low?
+20:06.140 - 20:07.940:  Carrie Allen is our China media analyst.
+20:08.440 - 20:10.800:  It's been falling for a number of decades now.
+20:10.800 - 20:15.860:  It very much started back in the 80s when China imposed the one-child policy.
+20:16.240 - 20:18.080:  And that was abolished in 2015.
+20:18.740 - 20:22.780:  But after that, there was an expectation that there will be an uptake of people
+20:22.780 - 20:24.740:  being able to have more children.
+20:25.220 - 20:28.300:  And on the contrary, it was the case that young Chinese,
+20:28.300 - 20:32.580:  they're a smaller demographic, obviously, due to their more being-only children.
+20:32.780 - 20:35.680:  And they're working longer hours as a result of their parents
+20:35.680 - 20:38.180:  and grandparents retiring and looking after them.
+20:38.220 - 20:40.020:  They've got to think about holding down a job.
+20:40.020 - 20:44.340:  It's very difficult to actually think about bringing more people into their family
+20:44.340 - 20:46.420:  because they simply don't have the time of the money.
+20:46.840 - 20:49.960:  Now, China still has a huge population.
+20:50.220 - 20:52.840:  Is it a problem that fewer babies are being born?
+20:53.260 - 20:54.340:  It is a huge problem.
+20:54.340 - 20:56.380:  China has what's known as an aging society,
+20:56.380 - 21:01.480:  meaning that there's going to be a huge demographic of people over the age of 60
+21:01.480 - 21:02.920:  and nobody's to look after them.
+21:03.260 - 21:05.460:  So that is a growing concern from the government.
+21:05.500 - 21:08.020:  And that's very much why I've seen in recent years
+21:08.680 - 21:11.320:  state messaging, trying to offer policies,
+21:12.020 - 21:14.320:  supporting young families to have children,
+21:14.320 - 21:17.560:  even just one, but also second or third children.
+21:18.020 - 21:22.780:  For example, there's been extended maternity leave offered in some cities and towns.
+21:22.780 - 21:25.400:  There's been promotion of free childcare,
+21:26.080 - 21:27.900:  but the message really hasn't changed.
+21:27.900 - 21:30.960:  A lot of young people still saying on platforms like Weibo,
+21:30.960 - 21:32.680:  which is China's equivalent of Facebook,
+21:33.220 - 21:34.700:  that they don't want to get married.
+21:34.740 - 21:35.980:  They don't want to have children.
+21:36.260 - 21:37.340:  They can't afford to.
+21:37.720 - 21:42.480:  Yeah, I mean, is there much discussion of the fertility rate reaching this figure
+21:42.740 - 21:44.640:  or are people just focusing on other things?
+21:45.180 - 21:48.160:  Well, what's really interesting about this is when this figure was announced
+21:48.160 - 21:50.980:  by the National Business Daily, which is a national newspaper.
+21:51.720 - 21:53.920:  I saw a post on Weibo this morning,
+21:53.920 - 21:56.640:  which had thousands of social media comments.
+21:56.780 - 21:59.600:  And generally, yes, they're along the lines of what I've been seeing.
+21:59.720 - 22:00.760:  People aren't surprised.
+22:00.760 - 22:04.800:  They've seen this happen again and again that the birth rate has been shrinking.
+22:05.380 - 22:06.180:  But now what happens?
+22:06.180 - 22:09.560:  It appears this social media post that the National Business Daily posted
+22:10.060 - 22:10.760:  has been removed.
+22:10.760 - 22:13.940:  I'm not sure if it's been censored, but the hashtag that it contained.
+22:13.940 - 22:16.820:  If you click that now, you get a disclaimer saying,
+22:16.820 - 22:20.640:  according to relevant laws, rules, policies, content,
+22:21.080 - 22:22.960:  showing this message cannot be displayed.
+22:22.960 - 22:26.120:  So that indicates that the government is very sensitive about this
+22:26.440 - 22:28.340:  and doesn't want people talking about it.
+22:28.680 - 22:32.020:  Carrie Allen, our China media analyst here in Britain,
+22:32.280 - 22:35.480:  six former officers from London's Metropolitan Police Force
+22:35.480 - 22:39.200:  have been charged with sending racist messages on a WhatsApp group.
+22:39.260 - 22:43.880:  The BBC was passed dozens of messages by a member of the group last year.
+22:44.380 - 22:47.840:  The coverage led to the Met's direct threat of professional standards
+22:47.840 - 22:49.300:  launching an investigation.
+22:49.880 - 22:50.980:  See, McAtecher reports.
+22:51.520 - 22:55.480:  The former officers all in their 60s had all served in what was called
+22:55.480 - 22:59.040:  the Diplomatic Protection Group, now known as the Parliamentary
+22:59.040 - 23:00.660:  and Diplomatic Protection Command.
+23:01.320 - 23:03.980:  The unit patrols places such as Downing Street
+23:03.980 - 23:05.460:  in the Palace of Westminster.
+23:06.220 - 23:09.500:  Having retired between 2001 and 2015,
+23:09.540 - 23:13.440:  they were not serving when they allegedly participated in the sharing
+23:13.440 - 23:17.520:  of what are termed grossly offensive racist messages.
+23:18.320 - 23:22.100:  Some of the messages in the group chat included strong racial slurs,
+23:22.460 - 23:26.700:  while others referenced to the government's policy of deporting migrants to Rwanda.
+23:27.240 - 23:30.060:  The Duke and Duchess of Sussex appeared in several images
+23:30.700 - 23:31.880:  alongside racist language.
+23:32.520 - 23:35.700:  Some joked about the flooding that hit Pakistan last year,
+23:35.700 - 23:38.400:  killing almost 1,700 people.
+23:39.040 - 23:41.920:  The men have been charged under the Communications Act.
+23:41.920 - 23:46.340:  Commander James Harman, who leads the Met's anti-corruption and abuse team,
+23:46.340 - 23:51.000:  said the force launched an investigation as soon as it was made aware of the allegations.
+23:51.100 - 23:54.660:  He said that met officers were tired of being let down
+23:55.140 - 23:56.880:  by a minority in their ranks.
+23:57.380 - 24:00.740:  The six men are scheduled to appear at Westminster magistrates court
+24:00.740 - 24:04.060:  in early September, where they will enter a plea.
+24:04.560 - 24:05.980:  Seema Kattacher reporting.
+24:06.940 - 24:09.580:  Germany is retiring two of its aircraft
+24:09.580 - 24:13.160:  after the Foreign Minister was forced to cancel an overseas trip
+24:13.160 - 24:16.340:  because her plane broke down twice in two days.
+24:17.100 - 24:20.920:  And Elena Baerbock was due to visit Australia, New Zealand and Fiji,
+24:20.920 - 24:23.020:  but was left stranded in Abu Dhabi.
+24:23.640 - 24:25.120:  From Berlin, here's Jenny Hill.
+24:25.400 - 24:28.720:  The Foreign Minister made no attempt to hide her irritation,
+24:28.720 - 24:31.760:  describing the situation as more than annoying.
+24:31.860 - 24:35.420:  And Elena Baerbock was en route to the Indo-Pacific on Sunday
+24:35.820 - 24:38.300:  when the wing flaps on her plane malfunctioned,
+24:38.540 - 24:40.580:  forcing the pilots to make an emergency landing.
+24:41.200 - 24:43.460:  After repairs in a successful test flight,
+24:43.840 - 24:47.180:  the aircraft took off again, only for the same problem to arise.
+24:47.940 - 24:51.340:  Attempts to hastily book the delegation onto commercial airlines
+24:51.340 - 24:54.300:  appear to have failed, and the Foreign Ministry cancelled
+24:54.300 - 24:56.120:  what should have been a week-long trip.
+24:56.800 - 24:59.400:  Germany may enjoy a reputation for efficiency,
+24:59.460 - 25:03.500:  but its government planes are notoriously unreliable.
+25:03.900 - 25:06.860:  The former Chancellor Angela Merkel missed the opening
+25:06.860 - 25:10.680:  of a G20 summit in 2018 because of a technical problem.
+25:10.680 - 25:13.480:  And earlier that year, the then-finance minister
+25:13.720 - 25:15.800:  and current Chancellor Olaf Schultz
+25:16.120 - 25:20.000:  was stranded in Indonesia after rodents chewed through cables
+25:20.360 - 25:21.020:  on his plane.
+25:21.460 - 25:22.720:  Jenny Hill in Berlin.
+25:23.720 - 25:26.080:  It is just over six months since a massive earthquake
+25:26.080 - 25:28.240:  hit the Turkish region of Antakia,
+25:28.240 - 25:30.300:  killing about 50,000 people.
+25:30.960 - 25:33.920:  One of those who died was the Ghanaian International Footballer
+25:34.160 - 25:35.220:  Christian Atsu.
+25:35.660 - 25:39.280:  He was 31 and played for the local club Heart Eye Sport.
+25:39.720 - 25:43.040:  Prior to his move to Turkey, Atsu had played in the Netherlands
+25:43.040 - 25:43.720:  and England.
+25:44.520 - 25:48.380:  His wife, Marie Claire Rupio, spoke to Naga Mancetti
+25:48.380 - 25:50.560:  about the last time they were in touch.
+25:50.860 - 25:54.320:  We spoke on the Saturday, and he did say that, obviously,
+25:54.320 - 25:57.760:  on Sunday he has a game, so he will call us on Monday.
+25:58.100 - 26:00.720:  On Sunday evening, I did write him a message saying,
+26:00.720 - 26:03.340:  Oh, congratulations for your goal, Leant.
+26:03.340 - 26:04.480:  He said, thank you.
+26:04.740 - 26:08.000:  That was basically the last message I received from him
+26:08.060 - 26:09.000:  before the earthquake.
+26:09.140 - 26:11.240:  I heard about the earthquake in the radio
+26:11.240 - 26:12.420:  when I was driving the car.
+26:12.540 - 26:17.440:  I didn't believe that it could happen in a place he would be,
+26:17.540 - 26:20.420:  but then after a while, obviously, his sister called me
+26:20.700 - 26:23.640:  several times and then told me that his building
+26:23.640 - 26:24.800:  has totally collapsed.
+26:24.860 - 26:25.720:  I was shocked.
+26:25.960 - 26:27.940:  There was a lot of confusion about what
+26:27.940 - 26:30.900:  had happened to Christian in the aftermath of the quake.
+26:30.940 - 26:32.640:  What were you hearing and how were you coping
+26:32.640 - 26:34.500:  with that information or misinformation?
+26:35.140 - 26:36.740:  I didn't really read any news.
+26:36.960 - 26:40.860:  I relayed on his age and Nana and on his sister.
+26:40.860 - 26:44.900:  Basically, when he told me they have said that they found him,
+26:45.180 - 26:46.820:  but we don't have any proof yet.
+26:47.100 - 26:50.920:  And then they put in the news he told me that they have found him.
+26:51.140 - 26:54.100:  But he still said, well, we still don't have any proof.
+26:54.680 - 26:56.520:  So that's why I could relay on him.
+26:56.840 - 26:59.080:  Because we always said, until we see him,
+26:59.380 - 27:01.180:  we can't really put any news out.
+27:01.360 - 27:03.480:  So that time was though quite hard.
+27:03.680 - 27:05.320:  My children heard from the school
+27:05.320 - 27:08.140:  all he has been found and then they came home
+27:08.200 - 27:10.600:  and to hear within the radio again and saying
+27:10.620 - 27:11.640:  that he hasn't been found.
+27:11.820 - 27:12.880:  So it wasn't nice.
+27:13.180 - 27:14.100:  It wasn't nice, Nana.
+27:14.400 - 27:15.880:  How old were your children at the time?
+27:16.200 - 27:18.060:  9, 3 and 6.
+27:18.340 - 27:20.700:  How do you break the news that their fathers died?
+27:20.980 - 27:24.100:  When I had the call, it was, I think, about three or four
+27:24.100 - 27:27.380:  o'clock in the night when the agent called me and broke that to me.
+27:27.640 - 27:30.340:  When he called me, I went outside my room
+27:30.560 - 27:32.300:  and then he told me, I'm sorry.
+27:32.600 - 27:35.320:  But it's him that time I couldn't really cry
+27:35.320 - 27:36.740:  because I think I wasn't shocked.
+27:36.940 - 27:39.840:  I still was hoping, obviously, for a good outcome
+27:39.840 - 27:42.960:  because they'd still pulled out a few people alive.
+27:43.240 - 27:46.560:  And I would have believed that he is a strong man
+27:46.560 - 27:48.040:  and he would survive this.
+27:48.220 - 27:50.600:  I think my body just just shut down.
+27:50.900 - 27:53.760:  And then the next morning, my children did have football
+27:53.760 - 27:55.540:  and I didn't want to take that from them.
+27:55.600 - 27:58.700:  I went with them to football to have some their time.
+27:59.160 - 28:01.480:  And then after, obviously, I had to set them down
+28:01.580 - 28:03.660:  and had to explain it to them.
+28:03.900 - 28:05.180:  And yeah, it's not easy.
+28:06.580 - 28:07.100:  Let's say that.
+28:07.200 - 28:10.340:  I think every parent would say that to tell a child
+28:11.020 - 28:12.920:  that their dad is not there anymore.
+28:13.040 - 28:15.020:  It's not something you want to wish anybody.
+28:15.020 - 28:17.800:  You've spoken about wanting to keep Christians legacy alive.
+28:17.800 - 28:19.420:  And that's why you're talking to me.
+28:19.540 - 28:22.340:  How would you like in years for Christian
+28:22.340 - 28:23.320:  to be spoken about?
+28:23.460 - 28:24.160:  In a big way.
+28:24.160 - 28:26.900:  So I hope that we can do something
+28:26.900 - 28:29.500:  for keeping his name alive in a way
+28:29.500 - 28:30.980:  that he has been known.
+28:30.980 - 28:32.600:  He has helped a lot of people.
+28:32.980 - 28:35.780:  And we would try our best to keep that going,
+28:35.780 - 28:38.260:  especially for the charities that he has supported.
+28:39.040 - 28:41.700:  Marie Claire Rupio talking to Nagamanchetti
+28:41.700 - 28:43.720:  about her husband, Christian Atso.
+28:44.960 - 28:47.020:  Since humans first set foot on the moon,
+28:47.020 - 28:50.140:  we have left not just flags and bags of waste there,
+28:50.440 - 28:53.060:  but also small pieces of art and culture.
+28:53.740 - 28:55.240:  The Apollo 12 mission, for example,
+28:55.240 - 28:58.680:  dropped off tiny drawings by artists like Andy Warhol.
+28:59.380 - 29:01.620:  As humans prepare to return to the lunar surface,
+29:01.620 - 29:05.340:  a new digital collection of art, poetry, music, films,
+29:05.340 - 29:09.660:  podcasts, and books from 158 countries is being assembled.
+29:10.260 - 29:12.060:  It's called the Lunar Codex.
+29:12.500 - 29:14.020:  And it's the creation of physicist
+29:14.020 - 29:16.100:  and author, Dr. Samuel Peralta.
+29:16.360 - 29:18.120:  He spoke to the BBC Sarah Montague.
+29:18.560 - 29:20.780:  The point of it is to imbue the moon
+29:20.780 - 29:23.000:  with a sense of what is our heart.
+29:23.620 - 29:26.560:  Our heart is really the kind of creations we make,
+29:26.560 - 29:30.440:  our poetry, our music, our films, and so on.
+29:30.860 - 29:33.640:  The other thing is to inspire the artists here on Earth,
+29:34.000 - 29:36.120:  who are included in the Lunar Codex
+29:36.560 - 29:38.760:  to keep sustaining their vision
+29:39.340 - 29:41.320:  and to pass on their vision to others.
+29:41.460 - 29:43.420:  Because you never know when someone will come
+29:43.420 - 29:44.840:  and they'll be happy on the shoulder and say,
+29:45.480 - 29:46.560:  your work is good enough.
+29:46.580 - 29:47.920:  Let's go to the moon.
+29:48.380 - 29:50.980:  So what size is it?
+29:51.520 - 29:53.180:  Well, we're actually leaving something
+29:53.280 - 29:55.640:  about a size of an American quarter.
+29:56.200 - 29:57.260:  There are little dots on it,
+29:57.260 - 29:59.900:  and each little dot is the page of a book
+29:59.900 - 30:01.680:  or the image of an art piece.
+30:02.180 - 30:03.820:  And what I've done is essentially,
+30:03.820 - 30:07.100:  I've taken the latest in semiconductor technology
+30:07.680 - 30:09.140:  using the work done by others,
+30:09.140 - 30:11.480:  and I put it on the work done by others,
+30:11.480 - 30:13.700:  which is creating lunar landers,
+30:13.700 - 30:16.440:  and we put them together and are launching them to the moon.
+30:17.000 - 30:20.680:  It's not likely to be read or decoded by aliens, I presume.
+30:20.680 - 30:24.140:  So what are you imagining is going to be its purpose
+30:24.140 - 30:25.980:  beyond the danger that it ends up
+30:25.980 - 30:27.340:  as just a bit of rubbish on the moon?
+30:27.800 - 30:29.580:  Well, my dad is an archeologist,
+30:29.940 - 30:31.760:  and he's involved with Yvesco
+30:31.760 - 30:34.760:  in creating world-significant sites.
+30:35.180 - 30:38.000:  And I imagine a future archeologist looking at it
+30:38.000 - 30:40.620:  and opening it up like a time capsule
+30:40.620 - 30:43.380:  under a building, and essentially looking
+30:43.380 - 30:46.920:  at the slice of life we had in the 20th century.
+30:47.440 - 30:49.500:  All the arts we did in knowing that,
+30:50.120 - 30:52.920:  despite all the challenges humanity is going through,
+30:53.360 - 30:55.260:  we still found time to dream
+30:55.260 - 30:57.360:  and put that dream into art.
+30:57.860 - 31:00.660:  Dr. Samuel Paralto, talking to Sarah Montague.
+31:01.340 - 31:03.420:  Now, have you ever had a pen pal,
+31:03.560 - 31:05.220:  a person you exchanged letters with often,
+31:05.220 - 31:06.560:  living in a different country?
+31:07.060 - 31:09.820:  The communication generally fades over time,
+31:09.820 - 31:12.140:  sometimes, after just the first letter, in fact,
+31:12.660 - 31:14.640:  but not for Patsy and Carol Ann,
+31:14.640 - 31:17.560:  who've been pen pals for almost 70 years.
+31:18.340 - 31:20.220:  But despite keeping in touch for so long,
+31:20.220 - 31:22.440:  they've only just met for the first time.
+31:22.460 - 31:24.340:  Chantal Hartle has the story.
+31:24.800 - 31:27.000:  This friendship goes back to 1955,
+31:27.000 - 31:29.480:  when Patsy from the UK and Carol Ann
+31:29.480 - 31:31.460:  from the US state of South Carolina
+31:31.860 - 31:33.180:  were both 12 years old.
+31:33.540 - 31:35.720:  Their letters started out with pencil and ink.
+31:36.080 - 31:37.600:  They then graduated to typing,
+31:37.620 - 31:40.760:  and most recently, the pair have been using social media
+31:40.760 - 31:41.820:  to stay in touch.
+31:42.260 - 31:44.360:  It was always their plan to meet one day,
+31:44.700 - 31:46.700:  so when Patsy was about to turn 80,
+31:47.160 - 31:49.360:  her family decided the best birthday present
+31:49.360 - 31:52.020:  would be to fly her to America for the big moment.
+31:53.840 - 31:57.160:  I know we were going to be on TV in that song.
+31:58.280 - 31:59.480:  Wow, it's so cute.
+31:59.500 - 32:00.800:  So lovely.
+32:00.800 - 32:01.500:  Finally.
+32:02.100 - 32:03.800:  Oh my gosh.
+32:04.640 - 32:05.520:  This is great.
+32:05.940 - 32:07.580:  After all these years.
+32:07.580 - 32:08.180:  Absolutely.
+32:08.780 - 32:08.900:  Yes.
+32:09.520 - 32:11.080:  We've missed each other.
+32:11.340 - 32:12.620:  I know it.
+32:13.420 - 32:14.580:  I know it.
+32:14.740 - 32:15.300:  Finally.
+32:15.720 - 32:17.320:  The two women were both girl guides
+32:17.320 - 32:18.800:  when they first wrote their letters,
+32:19.360 - 32:21.800:  and their lives continue to follow a similar path
+32:21.980 - 32:23.020:  as Patsy explains.
+32:23.060 - 32:26.540:  Obviously, at the same age, we'd got similar interests.
+32:26.580 - 32:28.840:  We got married around about the same time.
+32:28.840 - 32:30.440:  We both had three children,
+32:30.440 - 32:32.400:  and it just went on from there.
+32:33.000 - 32:34.180:  Over the last seven decades,
+32:34.180 - 32:37.440:  Carolyn and Patsy have sent each other hundreds of messages.
+32:38.060 - 32:40.760:  They aren't sure if they'll be able to meet again in person,
+32:40.760 - 32:43.500:  but say the letters and cards will continue.
+32:44.040 - 32:44.980:  Chant our heartle.
+32:47.500 - 32:48.640:  And that is all from us for now,
+32:48.640 - 32:51.200:  but the global news podcast will be back very soon.
+32:51.200 - 32:53.340:  This edition was mixed by Caroline Driscoll
+32:53.340 - 32:54.740:  and produced by Emma Joseph.
+32:55.180 - 32:57.440:  Our editors, Karen Martin, I'm Oliver Conway.
+32:57.760 - 32:58.900:  Until next time, goodbye.
+33:07.820 - 33:10.660:  At Bombas, we make socks, underwear, and t-shirts
+33:10.660 - 33:12.560:  that feel good and do good.
+33:13.100 - 33:14.660:  They feel good because they're designed
+33:14.660 - 33:17.360:  with the softest materials and comfort innovations.
+33:17.960 - 33:20.560:  They do good because for every item you purchase,
+33:20.860 - 33:23.320:  we donate another item to someone who needs it.
+33:23.520 - 33:27.560:  So far, we at Bombas have donated over 100 million items,
+33:27.620 - 33:29.820:  and your purchases add to that impact.
+33:29.820 - 33:32.640:  Go to bombas.com slash acast
+33:32.760 - 33:35.780:  and use code acast for 20% off your first purchase.
+33:36.120 - 33:39.800:  That's B-O-M-B-A-S dot com slash acast
+33:39.900 - 33:41.620:  and use code acast at checkout.
