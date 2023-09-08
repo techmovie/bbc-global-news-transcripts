@@ -1,0 +1,481 @@
+00:00.060 - 00:05.560:  Hello, this is the Global News Podcast from the BBC World Service with reports and analysis
+00:05.560 - 00:08.740:  from across the world, the latest news seven days a week.
+00:09.200 - 00:12.620:  BBC World Service Podcasts are supported by advertising.
+00:16.220 - 00:16.940:  Hey, I'm Ryan Reynolds.
+00:16.940 - 00:20.900:  At Mint Mobile, we like to do the opposite of what Big Wireless does.
+00:21.140 - 00:23.560:  They charge you a lot, we charge you a little.
+00:23.900 - 00:28.020:  So naturally, when they announce they'd be raising their prices due to inflation, we
+00:28.020 - 00:31.280:  decided to deflate our prices due to not hating you.
+00:31.540 - 00:36.540:  That's right, we're cutting the price of Mint Unlimited from $30 a month to just $15 a month.
+00:36.540 - 00:39.520:  Give it a try at MintMobile.com-switch.
+00:39.820 - 00:42.800:  New activation and upfront payment for three month plan required, taxes and fees extra.
+00:42.900 - 00:45.340:  Additional restrictions apply, see MintMobile.com for full terms.
+00:49.240 - 00:53.120:  When you meet someone online, can you trust they are who they say they are?
+00:54.060 - 00:55.920:  I keep thinking so much about you.
+00:56.080 - 00:57.040:  She's so stunning.
+00:57.220 - 00:59.380:  It's all well planned.
+00:59.660 - 01:05.560:  Laf Genessa is the true crime podcast from the BBC World Service and CBC Podcasts.
+01:05.700 - 01:09.780:  It's grown the world of online romance scams and it's available now.
+01:10.180 - 01:12.420:  Find it wherever you found this podcast.
+01:13.640 - 01:17.660:  This is the Global News Podcast from the BBC World Service.
+01:19.680 - 01:23.500:  I'm Valerie Sanderson and on the 8th of September, these are our main stories.
+01:23.960 - 01:27.660:  There's heavy flooding and disruption in Hong Kong and the nearby city of Shenzhen
+01:27.880 - 01:29.120:  after a record rainfall.
+01:29.700 - 01:34.500:  An army base in northern Marley has come under Islamist attack a day after dozens of people
+01:34.500 - 01:37.240:  were killed in two attacks in the same area.
+01:37.840 - 01:42.960:  Elon Musk has acknowledged that he did not act on a request from Kiev to activate his
+01:42.960 - 01:49.560:  Starlink satellite network to help the Ukrainian army carry out an attack on Russia's Black Sea Fleet.
+01:52.180 - 01:52.980:  Awesome this podcast.
+01:53.020 - 01:57.440:  If you don't walk past any CCTV, if you don't carry a mobile phone,
+01:57.440 - 02:02.360:  if you don't have a device, then you can't be trapped and you can literally just fall off the radar,
+02:02.360 - 02:05.340:  you can't disappear. It's how you choose to disappear.
+02:05.920 - 02:11.020:  The massive manhunt here in the UK to find the terror suspect who escaped from prison,
+02:11.400 - 02:13.480:  strat, to the bottom of a lorry.
+02:18.460 - 02:23.120:  Streets and buildings in Hong Kong and southern Chinese cities have been hit with intense flooding
+02:23.120 - 02:26.880:  and landslides after some of the heaviest rainfall on record.
+02:27.320 - 02:32.160:  It comes just days after the city dodged major damage from a super typhoon.
+02:32.520 - 02:35.760:  These people in Hong Kong were shocked at the ferocity of the floods.
+02:36.220 - 02:40.060:  I've never seen a scene like this before.
+02:40.300 - 02:42.960:  It's the first time I've witnessed such a severe situation.
+02:43.660 - 02:48.160:  Even during previous typhoons, it was never this bad. It's quite terrifying to see.
+02:48.440 - 02:49.980:  This is my first time ever seeing this.
+02:50.240 - 02:52.220:  Because before it rained, it never happened like this.
+02:52.420 - 02:53.600:  There was no landslide ever.
+02:53.760 - 02:55.840:  We never thought there would be any landslides here.
+02:56.340 - 02:57.760:  But today it changed.
+02:58.660 - 03:00.660:  This is the first time a landslide happened here.
+03:00.960 - 03:04.020:  I didn't think that something was like this would happen.
+03:04.440 - 03:06.200:  So it's very like traumatizing.
+03:06.820 - 03:10.440:  I got war from Asia Pacific Regional Editor, Celia Hatton.
+03:10.780 - 03:13.300:  Really dramatic scenes in Hong Kong.
+03:13.300 - 03:18.940:  I mean, to put this into context, this is a place that is used to dealing with torrential
+03:19.380 - 03:19.600:  rain.
+03:19.700 - 03:26.420:  It really is no big deal for many people who just go through typhoon season every year,
+03:26.420 - 03:28.820:  usually without really batting an eyelid.
+03:28.820 - 03:32.060:  The whole area is built to deal with heavy rain.
+03:32.060 - 03:37.520:  However, even for Hong Kong, this rainfall broke records.
+03:37.520 - 03:44.000:  So they recorded the heaviest rainfall within one hour in 139 years since records started
+03:44.380 - 03:44.960:  being kept.
+03:45.260 - 03:48.760:  That's more than 15 centimeters of rain fell in just an hour.
+03:48.760 - 03:51.600:  And so that's led to quite dramatic footage.
+03:51.660 - 03:57.760:  So we've seen shopping malls completely flooded with strange scenes of escalators descending
+03:57.760 - 04:01.240:  into muddy water, metro stations flooded.
+04:01.960 - 04:05.040:  Roads that have just fallen away under the weight of the rain.
+04:05.040 - 04:09.520:  And so really, for people in Hong Kong to be talking about how they've never seen something
+04:09.520 - 04:14.040:  like this before, that should really raise some eyebrows and really raise alarm bells.
+04:14.500 - 04:17.160:  And how the authorities reacting, what are they saying and doing?
+04:17.600 - 04:20.900:  Well, they did issue a black rain warning.
+04:20.900 - 04:24.060:  That's the highest rain warning well before the rain hit.
+04:24.060 - 04:28.240:  And that just tells people everybody to kind of stay inside and the city effectively
+04:28.240 - 04:33.720:  ground to a halt, 7.5 million people, all sheltering indoors or many of them.
+04:33.900 - 04:38.240:  But then people who were kind of caught in the rain, that's what we saw rescue workers
+04:38.240 - 04:43.700:  dressed in bright yellow, trying to pull people from submerged cars.
+04:43.700 - 04:49.600:  Luckily, we haven't recorded any deaths yet, but quite a few injuries were recorded during
+04:49.600 - 04:50.280:  that period.
+04:50.720 - 04:54.840:  The big thing we're watching forward next is in the neighboring hub of Shenzhen, which
+04:54.840 - 04:58.720:  is in mainland China, has already issued a warning that they are going to have to release
+04:58.720 - 05:03.740:  some water from their reservoir, and that could lead to more flooding in neighboring Hong
+05:03.740 - 05:03.960:  Kong.
+05:04.720 - 05:05.480:  Celia Hatton.
+05:06.080 - 05:11.180:  The army in Mali says there's been another attack on one of its bases in the north, a day
+05:11.180 - 05:14.820:  after two raids by Islamist militants killed more than 60 people.
+05:14.960 - 05:18.000:  The country has begun three days of national mourning.
+05:18.540 - 05:24.340:  Mali and other Sahel nations have seen a jihadist insurgency sweep across the region, in part
+05:24.340 - 05:27.700:  triggered by the pull out of UN peacekeeping troops from Mali.
+05:28.180 - 05:33.320:  Arrafka regional editor Richard Hamilton told me about the three attacks, starting with
+05:33.320 - 05:34.580:  the first two on Thursday.
+05:35.100 - 05:41.040:  The first one, the militants fired three rockets at the engines of a passenger boat, which
+05:41.040 - 05:47.940:  was traveling along the river Niger from Gao to Mopti, and about 50 civilians were killed.
+05:48.580 - 05:53.140:  River routes are the main ways of getting around because the roads are often blockaded
+05:53.140 - 05:58.820:  by militants and there are very few railway lines, and then later on there was a raid
+05:58.820 - 06:04.920:  on an army base at a place called Bamber, also near Gao, halfway between Gao and Timbuktu,
+06:05.360 - 06:11.920:  and a fresh attack in northern Mali at a military base belonging to the Mali and army with
+06:11.920 - 06:16.560:  two vehicles being driven into an apparent suicide attack.
+06:16.620 - 06:21.680:  Is it your sense really that the security situation in Mali and the region is unraveling
+06:21.720 - 06:21.880:  now?
+06:22.340 - 06:25.180:  Very much so, and it will probably get worse.
+06:25.580 - 06:27.840:  Timbuktu has been blockaded.
+06:28.420 - 06:33.240:  There are a variety of Islamist groups, the one that's carried out, this attack is called
+06:33.240 - 06:39.960:  JNIM, which is linked to Al-Qaeda, the Islamic State is growing in power, the militants
+06:39.960 - 06:45.400:  are spreading across the borders into Niger, Bikina Faso, it's taken over as the sort of
+06:45.440 - 06:49.200:  epicenter of jihadism from places like Syria and Iraq.
+06:49.700 - 06:55.340:  The United Nations is packing up French troops have been told to leave, so there's a security
+06:55.340 - 06:58.760:  vacuum and it's just getting really, really bad.
+06:59.340 - 07:05.080:  And Mali and other military regimes in the area, they're also looking to the Russian
+07:05.080 - 07:06.600:  merciless Vagno, aren't they?
+07:07.100 - 07:09.060:  What impact do you think that is having?
+07:09.940 - 07:15.600:  Well, the evidence is that they are not, despite being heralded as the alternative to
+07:15.600 - 07:17.340:  the French and the United Nations.
+07:17.860 - 07:24.000:  There was legitimate criticism that the United Nations were a bit ineffective, but the
+07:24.000 - 07:30.200:  evidence is that actually the radicalization is increasing, the violence is increasing,
+07:30.920 - 07:36.360:  and there are only something like 1,500 Vagno-merceries operating in Mali.
+07:36.360 - 07:42.980:  If you compare that to the 13,000 United Nations peacekeepers, it's pretty obvious if you
+07:42.980 - 07:46.960:  do the maths, that's not enough to contain the Islamists.
+07:47.380 - 07:54.940:  And analysts are saying that attacks by Vagno-merceries on the civilian population is only putting
+07:54.940 - 07:59.120:  fuel on the fire and it's radicalizing local people.
+07:59.660 - 08:05.760:  So this anti-French rhetoric certainly appealed to the young Mali and population, but in
+08:05.760 - 08:09.520:  the countryside they're seeing the true horror of what's happening.
+08:10.480 - 08:11.300:  Richard Hamilton.
+08:12.080 - 08:17.940:  The American billionaire Elon Musk has denied allegations that he deactivated satellite connections
+08:17.940 - 08:23.740:  to his Starlink network, to thwart a Ukrainian attempt to attack Russia's black sea fleet
+08:23.740 - 08:26.440:  and occupy Crimea with maritime drones.
+08:26.800 - 08:32.440:  It follows a report in the American media linked to a forthcoming biography of Mr. Musk,
+08:32.840 - 08:33.860:  as Danny Abahad reports.
+08:34.580 - 08:38.740:  The incidents reported by CNN is said to have taken place last year.
+08:39.300 - 08:44.140:  Like satellite connections, crucial for Ukraine's military effort would have been used to guide
+08:44.140 - 08:46.020:  explosive maritime drones.
+08:46.740 - 08:51.980:  Elon Musk said he did not deactivate connections to occupied Crimea, but rather that no such
+08:51.980 - 08:53.120:  connections existed.
+08:53.760 - 08:58.940:  He indicated he had not acted on what he called an emergency request by Kiev to activate
+08:58.940 - 09:02.940:  Starlink as far as the port of Sevastopol, where the Russian fleet is based.
+09:03.620 - 09:07.680:  If he'd agreed he said his company would have been complicit in a major act of war
+09:07.680 - 09:08.620:  and escalation.
+09:09.160 - 09:11.940:  Kiev has not responded to Mr. Musk's latest remarks.
+09:12.720 - 09:18.380:  According to the CNN article, the maritime drones reportedly used, lost connection and
+09:18.380 - 09:19.780:  washed ashore harmlessly.
+09:20.460 - 09:21.280:  Danny Abahad.
+09:22.060 - 09:26.780:  Russians are voting in regional and municipal elections over a number of days ending on
+09:26.780 - 09:27.240:  Sunday.
+09:27.680 - 09:33.020:  So far, so run of the mill, but the votes have been extended to Russian occupied areas of
+09:33.020 - 09:33.500:  Ukraine.
+09:33.540 - 09:37.440:  That's even as Ukrainian forces are trying to win the territory back.
+09:37.800 - 09:40.940:  Matthew Adler got more from our Russia editor, Steve Rosenberg.
+09:41.340 - 09:45.980:  There's been international condemnation of the decision by Moscow to hold these so-called
+09:45.980 - 09:48.880:  elections in Russian occupied Ukrainian territories.
+09:49.320 - 09:53.860:  The Council of Europe called it a flagrant violation of international law.
+09:54.420 - 09:59.100:  Washington's also called them predetermined elections with fabricated results.
+09:59.100 - 10:03.640:  Not surprisingly, that hasn't gone down well with the Russians, the Russian Embassy in
+10:03.640 - 10:07.640:  Washington accused America of meddling in Russia's internal affairs.
+10:08.180 - 10:14.560:  Just to remind you, Russia claimed to have annexed these Ukrainian territories a year ago,
+10:14.560 - 10:20.180:  that wasn't recognized by the international community, except Syria and North Korea.
+10:20.800 - 10:20.880:  No.
+10:21.300 - 10:25.280:  I mean, as you said, their accusations are a result of a foregone conclusion.
+10:25.280 - 10:30.420:  I mean, that's widely said about these local elections, municipal elections, right across
+10:30.420 - 10:33.160:  Russia, that are taking place.
+10:33.460 - 10:38.940:  In Ukraine, is there any idea about voter turnout or a few Ukrainians without Russian passports
+10:39.360 - 10:43.660:  would be allowed to vote if they wanted to express opposition?
+10:43.980 - 10:44.560:  Not really.
+10:44.900 - 10:49.000:  And I think it's really important if we're talking about elections, I mean, overall,
+10:49.400 - 10:54.340:  in Russia today, right, these municipal elections, we have to qualify the word election right
+10:54.340 - 10:54.860:  at the start.
+10:55.180 - 11:01.100:  When we talk about elections for mayors and governors, when we talk about municipal and local elections,
+11:01.160 - 11:05.300:  it's important to point out that all the main Russian opposition figures are either in jail
+11:05.880 - 11:06.520:  or in exile.
+11:06.520 - 11:13.140:  The result of a crackdown by the authorities which began before Russia's forescale invasion
+11:13.140 - 11:18.960:  of Ukraine, which has accelerated since, and public criticism of the authorities' risks
+11:19.000 - 11:23.060:  landing you in big trouble, and that's hardly conducive to free and fair elections.
+11:23.100 - 11:27.960:  And also, election monitoring groups have come under intense pressure, like the election
+11:27.960 - 11:33.600:  group Golis, which for years has been training election observers, been monitoring elections
+11:34.140 - 11:35.980:  and gathering evidence of election fraud.
+11:35.980 - 11:42.220:  Well, last month, its co-chairman, Gregory Milkanyantsev, was arrested, along with reportedly
+11:42.220 - 11:45.140:  14 of his associates in several Russian regions.
+11:45.700 - 11:50.240:  And Golis put out a statement recently saying that these elections were neither free nor
+11:50.240 - 11:52.340:  fair in all the Russian regions where they're taking place.
+11:53.200 - 11:55.180:  Russia editor, Steve Rosenberg.
+11:56.300 - 12:03.000:  The 2023 Rugby World Cup starts today with the hosts France facing New Zealand in Paris.
+12:03.460 - 12:08.340:  Last year's winners South Africa begin the defence of their crown on Sunday against Scotland,
+12:08.380 - 12:12.480:  as the spring box aim for a record-fourth world championship.
+12:13.240 - 12:18.480:  For many South Africans, the iconic image of 1995's winning captain, Francois Pinar,
+12:18.480 - 12:23.520:  being handed the cup by Nelson Mandela, South Africa's president at the time, demonstrated
+12:23.520 - 12:27.080:  the reconciliation of the country after years of apartheid.
+12:27.780 - 12:33.720:  Francois Pinar told BBC Sport Africa, Zian Williams, about that iconic moment when President
+12:33.720 - 12:37.720:  Mandela, affectionate inone, as Mediba, gave him the trophy.
+12:38.280 - 12:43.560:  The moment I had the privilege to lift the William Webb Ellis above my head, and I've got
+12:43.560 - 12:45.860:  my eyes closed here at such a moment.
+12:46.760 - 12:51.280:  Whenever I look at it, I look at Mediba in his hands and just the joy.
+12:51.920 - 12:54.560:  Why was he so important to us when he was our talisman?
+12:54.600 - 13:00.880:  He came out of prison after 27 years with forgiveness and with the idea to build a rainbow
+13:00.880 - 13:05.980:  nation in mind, and he understood the importance of rugby under the Afri-Garnas.
+13:06.040 - 13:12.200:  And if you fast forward now, how rugby has managed in a couple of World Cups to unite our
+13:12.200 - 13:14.660:  country like no other event has done before.
+13:14.980 - 13:19.100:  You still have hope in terms of the country going forward and making that progress that
+13:19.100 - 13:20.980:  we all wanted to see in 1995.
+13:21.460 - 13:23.100:  Yeah, and it was a big step forward.
+13:23.580 - 13:27.380:  For the first time in the history of our country, everybody was a World Cup winner.
+13:27.760 - 13:28.320:  For the first time.
+13:28.440 - 13:29.400:  I mean, it's just incredible.
+13:29.460 - 13:35.860:  So the stories I hear from people on a weekly basis when I travel where they were thinking
+13:35.900 - 13:39.700:  and how they felt and some of them they hated rugby, now loves rugby.
+13:39.820 - 13:44.640:  And Mr Mandela said, Sport has the power to unite people in a way that little else does
+13:44.860 - 13:45.600:  because it does.
+13:45.600 - 13:46.360:  It just does.
+13:46.900 - 13:51.140:  Well, Frosua, you were the first springboard captain to lift a World Cup trophy.
+13:52.000 - 13:54.880:  Can they do it again for what would be a record fourth time?
+13:55.880 - 13:59.140:  We'll be a fantastic record and C are doing it for the second time.
+13:59.140 - 14:04.180:  You know, he was battling with injury and he came through the Argentinian game 30 minutes
+14:04.520 - 14:05.780:  and he's been playing well.
+14:06.280 - 14:09.280:  So he would want to make history and the team would want to make history.
+14:09.300 - 14:13.640:  There's a lot of them there that have tasted that four years ago and yes, they have a
+14:13.720 - 14:13.980:  chance.
+14:14.180 - 14:17.320:  Five teams in the World, six teams in the World definitely have a chance.
+14:17.440 - 14:21.160:  But there's going to be a couple of things that they need to get right in order to become
+14:21.160 - 14:22.620:  World Champions in Paris.
+14:23.180 - 14:30.920:  Do you think that what started in 1995 and we saw then carry on in 2007 and 2019 is what
+14:30.920 - 14:36.880:  makes the rugby world Cup so special to the people of South Africa when the country wins
+14:38.440 - 14:38.460:  it?
+14:38.520 - 14:39.120:  Yeah, definitely.
+14:40.400 - 14:40.440:  It is.
+14:40.460 - 14:44.280:  The flame was lit in 1995 and that has become a big, and that's a big thing now.
+14:44.420 - 14:48.860:  The World Cup, they can't find jerseys inside Africa anymore, it's sold out because it's
+14:48.860 - 14:49.300:  kicking off.
+14:49.700 - 14:52.040:  Wicking off against Scotland on Sunday and I'll be there.
+14:52.560 - 14:57.300:  So definitely the flame started and now it's like I said, 60 million people that love
+14:57.300 - 15:01.540:  the game and more players getting opportunities than ever before to play the game of rugby.
+15:01.540 - 15:06.520:  So the platform has been much bigger for a talent to come through and we've seen that
+15:06.520 - 15:07.140:  on our side.
+15:07.880 - 15:10.500:  François Pina talking there to Ian Williams.
+15:12.340 - 15:13.500:  Still to come on this podcast?
+15:14.160 - 15:18.400:  No time to wait until it's finished to rebuild, you know.
+15:18.900 - 15:21.640:  So it's like really time to do something right now.
+15:22.120 - 15:27.680:  We joined Revellers in Kiev in Ukraine to discover what a night out is like in a country
+15:27.900 - 15:28.540:  under attack.
+15:29.140 - 15:33.040:  But first, here's Andrew Peach with news of this week's HappyPod.
+15:33.640 - 15:37.940:  Yes, this week on the HappyPod a familiar voice to global news podcast listeners, my BBC
+15:37.940 - 15:42.580:  colleague Alla Gehrin, on how she managed to get back into Yemen to catch up with a little
+15:42.580 - 15:45.360:  boy who teaches his fellow peoples at school.
+15:45.360 - 15:49.500:  We're also going to hear about a new app that's teaching hundreds of thousands of people
+15:49.500 - 15:51.420:  literacy skills in the hall of Africa.
+15:51.860 - 15:56.920:  We're off to a Greek island where they repair, reuse or recycle pretty much everything.
+15:57.500 - 16:01.440:  And if you heard me asking for your little win, the thing that's made your week, prepare
+16:01.440 - 16:07.460:  to meet a US Navy lieutenant in Washington state and a proud dog owner in Western Australia.
+16:07.680 - 16:10.120:  The HappyPod in this feed every Saturday.
+16:17.840 - 16:22.540:  At Bombas, we make socks, underwear and t-shirts that feel good and do good.
+16:23.040 - 16:27.280:  They feel good because they're designed with the softest materials and comfort innovations.
+16:27.960 - 16:32.960:  They do good because for every item you purchase, we donate another item to someone who needs
+16:32.960 - 16:33.240:  it.
+16:33.620 - 16:39.480:  So far, we at Bombas have donated over 100 million items and your purchases add to that
+16:39.480 - 16:39.880:  impact.
+16:40.020 - 16:45.740:  Go to Bombas.com slash ACAST and use code ACAST for 20% off your first purchase.
+16:45.860 - 16:51.580:  That's B-O-M-B-A-S dot com slash ACAST and use code ACAST at checkout.
+16:52.040 - 16:54.140:  Filling your car to Carbana is as easy as-
+16:54.140 - 16:54.880:  As easy as pie?
+16:54.880 - 16:55.360:  Sure.
+16:55.660 - 16:57.640:  All you have to do is enter your license plate or bin.
+16:57.780 - 16:59.460:  As easy as a stroll in the park.
+16:59.980 - 17:00.400:  Okay.
+17:00.460 - 17:04.100:  Then just answer a few questions and you'll get a real offer in seconds.
+17:04.360 - 17:05.440:  As easy as singing.
+17:06.180 - 17:06.700:  Why not?
+17:06.740 - 17:10.860:  Schedule a pickup or drop off and Carbana will pay you that amount right on the spot.
+17:11.000 - 17:12.180:  As easy as playing guitar.
+17:12.180 - 17:14.480:  Actually, I find that kind of difficult.
+17:14.980 - 17:18.080:  But selling your car to Carbana is as easy as-
+17:18.500 - 17:19.080:  Can be.
+17:19.080 - 17:21.820:  Visit Carbana.com or download the app to get an instant offer today.
+17:26.900 - 17:31.680:  The names may have changed at the top of Japan's biggest boy band agency, but the allegations
+17:31.680 - 17:35.300:  of sexual abuse that the J-Pop talent group are continuing.
+17:35.880 - 17:41.140:  Now the newly appointed CEO of Johnny and Associates, not a Yuki Higashayama, is facing
+17:41.140 - 17:43.220:  questions over sexual allegations.
+17:43.920 - 17:49.120:  In an earlier podcast, we reported that Julie, the niece of agency finder, Johnny Katsugawa,
+17:49.420 - 17:53.920:  had stepped down after admitting for the first time that sexual abuse committed by her
+17:53.920 - 17:56.880:  late uncle had taken place over decades.
+17:57.600 - 17:59.660:  So what do we know about the new CEO?
+18:00.200 - 18:02.840:  I spoke to our correspondent in Tokyo, Shamikalil.
+18:03.360 - 18:06.360:  Well, Nuryuki Higashayama is a household name in his own right.
+18:06.360 - 18:10.160:  He's one of the oldest talents recruited by Johnny and Associates.
+18:10.160 - 18:11.400:  He's been with them for decades.
+18:11.400 - 18:16.780:  He's a singer, an actor, a veteran entertainer, very recognizable face and name.
+18:16.780 - 18:21.820:  And yet yesterday he faced his own accusations of sexual abuse.
+18:21.820 - 18:24.900:  These came out in a book that was published in 2005.
+18:24.900 - 18:30.580:  And one of the journalists asked him whether he inappropriately touched boys if he inappropriately
+18:30.580 - 18:32.880:  exposed himself to young boys.
+18:32.980 - 18:35.020:  And Mr. Higashayama said that he didn't remember.
+18:35.380 - 18:39.020:  Maybe it happened, maybe it didn't, he said, I have trouble remembering.
+18:39.100 - 18:43.940:  He also added that he may have been stricter with younger performance and may have done
+18:43.940 - 18:47.080:  things in his twenties and teens that he wouldn't do now.
+18:47.640 - 18:50.660:  It's not an outright no, but it's also not a confirmation.
+18:50.660 - 18:55.820:  What we know is that as it stands, we have a company that is in the midst of a huge sexual
+18:55.820 - 19:02.100:  abuse scandal who's hired a CEO that himself is facing allegations of sexual misconduct,
+19:02.640 - 19:07.120:  which then begs the question, as you mentioned, the face may have changed, but what actually
+19:07.120 - 19:10.140:  changes structurally in this talent agency.
+19:10.460 - 19:16.440:  Now Nuryukihima Higashayama is on the front pages of many newspapers today, many commenting
+19:16.440 - 19:22.760:  on the fact that yes, he's the new CEO, but Julie Fujishima, the outgoing CEO, or President
+19:22.760 - 19:28.480:  and the niece of Johnny Kitagawa owns 100% of the shares in the company.
+19:28.480 - 19:32.280:  She will stay on as representative director, taking care of the money.
+19:32.760 - 19:37.660:  So yes, the face of the top again has changed what is changing in terms of practices.
+19:38.120 - 19:42.860:  One thing also that remains the same, Valerie, is the name, the name of the company, Johnny
+19:42.860 - 19:43.800:  and Associates.
+19:44.100 - 19:48.920:  And for decades, this is a name that has been synonymous with Japan's K-pop culture.
+19:48.920 - 19:56.260:  But now it is essentially a conjures up really difficult memories for many of these victims.
+19:56.260 - 20:03.860:  And it is associated with a brand and a man that are disgraced in Japan's worst sexual
+20:03.860 - 20:04.520:  abuse scandal.
+20:04.900 - 20:08.380:  And this is a really big deal, this agency, where you are, isn't it?
+20:08.700 - 20:09.760:  Oh, it's a huge deal.
+20:09.760 - 20:15.820:  I mean, I don't think you can overstate how hugely influential Johnny Kitagawa was, the sway
+20:15.820 - 20:22.100:  and the power that he held over the entertainment industry, the fact that if you are a young Japanese
+20:22.100 - 20:27.300:  teenager wanting to cut your teeth into the entertainment industry, be part of a boy band.
+20:27.300 - 20:34.480:  This was your gateway, this agency, but keeping that name, many survivors have said, is not
+20:34.480 - 20:38.880:  only bad for business, but they feel that it's an insult to them and what they have gone
+20:38.880 - 20:39.200:  through.
+20:41.580 - 20:47.700:  Here in the UK, an enormous manhunt is underway to track down Daniel Khalif, a former soldier
+20:47.700 - 20:51.960:  in terror suspect who escaped from one's worth prison in London on Wednesday.
+20:52.620 - 20:54.220:  It was an adacious escape.
+20:54.700 - 20:58.900:  One minute, twenty-one-year-old Khalif was working in the prison kitchen, the next he
+20:58.900 - 21:04.060:  apparently strapped himself to the bottom of a lorry delivering food to the jail, and
+21:04.060 - 21:07.360:  when the lorry left, so too did Daniel Khalif.
+21:07.860 - 21:12.560:  He had been on remand in prison, it's understood he's accused of working for Iran and has been
+21:12.560 - 21:14.980:  nicknamed Iran's spy in the media.
+21:15.320 - 21:20.360:  The incident has triggered long delays at ports and airports as police look for him.
+21:20.820 - 21:23.500:  The BBC's Dominic Kashiani gave us this update.
+21:24.120 - 21:28.540:  We had an announcement in the last few minutes from the Metropolitan Police saying that an overnight
+21:28.540 - 21:34.740:  search of Richmond Park, now that's in southwest London, was in connection with the disappearance
+21:34.880 - 21:36.380:  of Daniel Khalif.
+21:36.440 - 21:41.020:  We had a lot of speculation about how this pretty enormous manhunt is now going on, but last
+21:41.020 - 21:46.860:  night, people saw two police helicopters over the park, and Richmond Park, for those who
+21:46.860 - 21:51.240:  don't know it, is the largest in the capital, it's about 2,500 acres, it's actually a large
+21:51.240 - 21:57.600:  piece of open countryside on the edge of London, and those helicopters were seen overhead.
+21:57.600 - 22:01.980:  That indicates that they must have been using effectively infrared technology looking for
+22:01.980 - 22:07.700:  body heat, and possibly the route he would have taken from once with prison towards potentially
+22:07.700 - 22:12.080:  where he has connections to in Kingston, southwest London, it could have been a good place
+22:12.100 - 22:12.520:  to search.
+22:12.700 - 22:18.300:  People have seen and experienced long accused at Dover, at the Channel Tunnel, particularly
+22:18.300 - 22:21.020:  for the lorries we've seen some of the pictures of that.
+22:21.020 - 22:26.460:  I'm told that yesterday afternoon there was some quite substantial police activity, and
+22:26.460 - 22:32.160:  also there's a drone at one point was put up in the air around either the Channel Tunnel
+22:32.320 - 22:37.400:  or the port, clearly police are taking very seriously the possibility that he may try
+22:37.400 - 22:38.120:  to leave the country.
+22:38.240 - 22:41.440:  They're taking note chances here, and that's why there wasn't alert, which went out to
+22:41.440 - 22:43.400:  the airports shortly after he disappeared.
+22:44.160 - 22:50.260:  There are more than 150 officers from the Metropolitan Police's counter-terrorism command involved
+22:50.260 - 22:51.340:  in the manhunt.
+22:51.800 - 22:56.460:  The former police officer Mel Thomas has experience of searching for fugitives on the run.
+22:57.040 - 23:01.880:  The way the individuals manage to escape from the establishment is pretty unique.
+23:01.880 - 23:06.200:  Obviously, underneath a vehicle, you would only have been able to hold onto that vehicle
+23:06.200 - 23:10.360:  for so long I would guess obviously because of the moving parts and the heat on the vehicle.
+23:10.920 - 23:15.140:  So yes, I'm sure he would have a life on the vehicle very close by, and then obviously
+23:15.140 - 23:18.920:  made his way from there whether or not he would have gone straight to his network.
+23:19.400 - 23:20.580:  That might be the obvious thing.
+23:21.060 - 23:24.640:  Some people might think, well, he wouldn't go to his network because that would be the obvious
+23:24.640 - 23:27.960:  thing for somebody to do, so all avenues are open.
+23:28.440 - 23:33.180:  If you don't walk past any CCTV, if you don't carry a mobile phone, if you don't have
+23:33.180 - 23:37.560:  a device, then you can't be trapped and you can literally just fall off the radar, drop
+23:37.560 - 23:38.040:  off the radar.
+23:38.100 - 23:42.800:  So if you end up going into the wilderness where there is no tracking devices, there is no
+23:42.800 - 23:48.740:  CCTV, then you can disappear, unfortunately though, with our world as it is, a lot of people
+23:48.740 - 23:53.440:  will always find that hard to do because a lot of people are reliant and dependent and
+23:53.440 - 23:56.160:  addicted, and we know it is an addiction to devices.
+23:56.400 - 24:00.540:  So you can disappear, it's how you choose to disappear.
+24:01.420 - 24:01.980:  Mel Thomas.
+24:02.500 - 24:07.700:  Now to North Korea, where the nation's leader Kim Jong-un has unveiled a new submarine,
+24:07.820 - 24:10.640:  which he claims can carry nuclear weapons.
+24:11.320 - 24:15.120:  The vessel has been in production for years, and Pyongyang says it will give them the
+24:15.120 - 24:18.680:  capability to launch underwater nuclear attacks.
+24:19.140 - 24:22.000:  Jim McKenzie reports from Seoul in South Korea.
+24:22.720 - 24:27.620:  In photographs released by state media, Kim Jong-un is standing in a shipyard, surrounded
+24:27.620 - 24:33.460:  by naval officers, and overshadowed by an enormous black submarine, which according
+24:33.460 - 24:36.780:  to this morning's report is capable of launching nuclear weapons.
+24:37.520 - 24:40.680:  Mr. Kim has been working to develop this submarine for many years.
+24:41.300 - 24:44.220:  It's seen as a crucial part of his nuclear weapons program.
+24:44.760 - 24:49.720:  Korean submarines are difficult to locate underwater, meaning having one could allow Pyongyang
+24:49.720 - 24:55.140:  to strike its enemies from the sea after its land weapons had been destroyed in an attack.
+24:55.760 - 24:57.920:  But we don't know if this submarine is operational.
+24:57.920 - 25:03.360:  The North Koreans have yet to demonstrate it can successfully fire nuclear-capable missiles.
+25:04.140 - 25:04.860:  Jim McKenzie.
+25:05.600 - 25:12.200:  China's currency has hit a 16-year low, and August saw its exports fall for the fourth month
+25:12.200 - 25:12.660:  in a row.
+25:13.100 - 25:17.180:  It's highly the economic bounce back that was expected after Beijing lifted its harsh
+25:17.180 - 25:19.260:  curve of restrictions earlier this year.
+25:19.680 - 25:20.760:  So what's going on?
+25:21.140 - 25:26.320:  The BBC's Felicity Hanna spoke to Rebecca Chung Wilkins, a senior correspondent from Bloomberg
+25:26.320 - 25:27.600:  News in Hong Kong.
+25:28.200 - 25:33.220:  Instead of that big reopening that we were expecting to have and expecting to see, we've
+25:33.220 - 25:38.500:  seen quite a considerable slowdown in growth and the latest indication of these sort of
+25:38.500 - 25:44.640:  quite weak trade figures, where again, we're seeing exports and imports for China both
+25:44.640 - 25:47.720:  slowing about 7-8% there.
+25:48.040 - 25:54.020:  The only sort of bright glimmer is that that slump is slightly better than people are
+25:54.460 - 25:54.520:  expecting.
+25:54.520 - 25:58.880:  There was an expectation among economists we were going to see both of those figures dropped
+25:58.880 - 26:00.760:  by quite a bit more than that.
+26:01.060 - 26:05.180:  It does suggest that the economy may be starting to stabilize.
+26:06.160 - 26:06.940:  It's interesting, isn't it?
+26:06.940 - 26:10.800:  These exports have fallen for the fourth month in a row, and I was looking at one report
+26:10.800 - 26:16.140:  this week that showed China's share of US goods imports fell to the lowest level since
+26:17.100 - 26:17.120:  2006.
+26:17.380 - 26:18.220:  So what is going on?
+26:18.220 - 26:21.200:  Why is global demand for Chinese goods decreasing?
+26:22.420 - 26:24.020:  Well, this is two elements for that.
+26:24.020 - 26:26.940:  The first is this global slowdown that we've seen.
+26:26.940 - 26:32.620:  Now during the pandemic, there was such a demand for and such strong consumption that actually
+26:32.620 - 26:36.340:  Chinese exports and the rest of the world were really bolstered.
+26:36.580 - 26:42.600:  Now since reopening and because of global weakness and global demand, that has waned
+26:42.600 - 26:43.060:  a little bit.
+26:43.340 - 26:48.120:  In addition to that, we have, of course, had these ongoing tensions between China and the
+26:48.120 - 26:48.460:  US.
+26:48.900 - 26:54.860:  China, on its part, is actually moving away from importing US goods.
+26:54.860 - 27:00.960:  And equally, the US appears to be importing less from China, although it is worth noting
+27:00.960 - 27:05.720:  that although those that China figure appears to be falling, the US is still importing products
+27:06.100 - 27:09.420:  from China that come via other manufacturing hubs.
+27:09.420 - 27:13.240:  So for example, we see a bit of an uptick in Vietnam and Mexico.
+27:13.240 - 27:18.700:  Now that's bolstered by China re-routing some of its goods through those alternative nations.
+27:19.660 - 27:26.020:  If the Chinese economy is slowing and if the price of Chinese goods therefore falls, could
+27:26.020 - 27:28.460:  that actually be deflationary for the rest of the world?
+27:29.020 - 27:34.180:  It is worth mentioning that actually those deflationary pressures in China appear to
+27:34.180 - 27:36.160:  have eased off just a little bit.
+27:36.380 - 27:41.140:  And going back to those trade figures just again, that figure of Chinese imports, just
+27:41.140 - 27:45.480:  being a little bit better than expected points to that, it points to the fact that demand
+27:45.480 - 27:52.020:  in China's domestic consumption and domestic audience might be just improving a touch.
+27:52.020 - 27:58.100:  And that's what really is needed, that domestic demand is needed to prevent deflation in
+27:58.100 - 27:59.100:  the Chinese economy.
+27:59.640 - 28:03.720:  Rebecca Chung Wilkins from Bloomberg News in Hong Kong.
+28:05.080 - 28:10.880:  Let's return now to Ukraine where Russia's invasion has appended every aspect of everyday
+28:10.880 - 28:13.480:  daily life, including trips to the pub.
+28:13.960 - 28:19.520:  So just how do you have a big night out in a war zone till we luck herst reports from
+28:24.720 - 28:24.740:  Kiev?
+28:24.740 - 28:28.520:  Last orders in Kiev, it's been 18 months since Russia launches full scale invasion of
+28:28.520 - 28:33.240:  Ukraine and the war has changed every part of people's lives here, that includes their
+28:33.240 - 28:33.800:  leisure time.
+28:34.680 - 28:39.080:  Air raids, curfews, government restrictions have all changed the culture of nights out.
+28:39.780 - 28:43.340:  So how do you spend a Friday night in a city at war?
+28:48.420 - 28:50.480:  Our first stop is a place called Abo.
+28:50.680 - 28:55.840:  It started a year ago as a record shop, but it's now grown into a bar, a club, a hangout
+28:55.880 - 28:56.300:  place.
+28:56.840 - 29:00.560:  There are people playing table tennis, drinking with friends, smoking, enjoying their Friday
+29:00.560 - 29:00.900:  nights.
+29:01.480 - 29:05.460:  We're going to speak to one of the co-founders, Amir, about why they set this spot up during
+29:05.500 - 29:05.840:  the war.
+29:06.100 - 29:16.040:  It was to support local people, local artists, it's like the time when our neighbors destroyed
+29:16.040 - 29:22.760:  our country daily, you know, and no time to wait until it's finished to rebuild, you
+29:22.760 - 29:22.920:  know.
+29:23.440 - 29:28.240:  So it's like really time to do something right now, because they're destroying the building.
+29:28.920 - 29:33.300:  Under wartime rules, all bars, clubs and restaurants have to shut here at 10 pm.
+29:33.340 - 29:35.500:  You can't sell alcohol after that time either.
+29:36.200 - 29:40.600:  So we're heading now to a bar called Veniceage, which I'm told is an iconic Kiev night
+29:40.600 - 29:40.880:  spot.
+29:41.060 - 29:41.780:  Let's go check it out.
+29:47.820 - 29:52.740:  We sat down outside Veniceage, it's a grungy graffiti bar that only sells beer and
+29:52.740 - 29:53.260:  sighted.
+29:53.600 - 29:56.400:  It's a sign saying that no vodka will ever be sold here.
+29:57.040 - 30:00.360:  That hasn't done for the fun, everyone here seems very merry.
+30:01.260 - 30:04.380:  We've met a group of students, so we're going to tell us about how war has affected their
+30:04.380 - 30:04.960:  nights out.
+30:05.420 - 30:09.200:  Commandants go to the United North, how to say it properly in English.
+30:09.840 - 30:13.540:  Jaroslav is talking about the wartime curfew, as you don't look sharp.
+30:13.680 - 30:17.720:  He's got bleached blonde hair, he's wearing an earring, an ascot and a crisp white shirt.
+30:18.160 - 30:20.980:  Plus sunglasses, even though it's been dark for the past hour.
+30:21.720 - 30:25.160:  It tells me they respect the government rules, but he also says he's keen to travel once
+30:25.160 - 30:25.820:  the war ends.
+30:26.040 - 30:30.640:  As things stand, Maynades 18 to 60 can't leave Ukraine without a special government
+30:30.640 - 30:31.100:  commission.
+30:31.260 - 30:37.100:  Yes, I want to see the world, I want to see something new, I want to smell.
+30:39.460 - 30:44.480:  So it's now just before 10pm, Venezuela has closed and everyone's happily and quickly
+30:44.920 - 30:45.920:  heading down to the metro.
+30:48.120 - 30:53.580:  Although it turns out not home time for us, bars and clubs have to shut at 10pm, you can't
+30:53.580 - 30:58.400:  sell alcohol off at 10pm, but curfew, the point when everyone has to be off the streets,
+30:58.420 - 31:03.880:  is midnight here in Kiev, which gave us just enough time to get an invitation to a house
+31:03.900 - 31:04.240:  party.
+31:05.540 - 31:07.140:  It was bottled in Bachmotu.
+31:07.500 - 31:13.840:  This is one of the last bottles it was produced, the 5th of January of 2022.
+31:14.320 - 31:17.240:  We're in Costa Antín's apartment, about six of us in total.
+31:17.740 - 31:21.420:  He's popped a bottle of sparkling wine from Bachmot to share with us, he's a great host.
+31:22.160 - 31:26.080:  He's originally from Donetsk, and then he moved to Maripol and is now settled here in
+31:26.080 - 31:26.840:  the capital cave.
+31:27.360 - 31:30.840:  Russia has pushed him further and further west in the last 10 years.
+31:58.720 - 31:59.000:  Despite all that, it does see some positives toward time curfews.
+32:03.160 - 32:06.480:  And that's it from us for now, but there'll be a new edition of the Global News Podcast
+32:06.480 - 32:06.960:  later.
+32:07.320 - 32:11.700:  If you want to comment on this podcast or the topics covered in it, send us an email.
+32:11.960 - 32:15.200:  The address is Global Podcast at BBC.U.D.U.K.
+32:15.200 - 32:20.600:  You can also find us on X, formerly known as Twitter at Global NewsPod.
+32:21.100 - 32:25.360:  This edition was mixed by Gareth Jones, the producer was Alison Davis, the editor as
+32:25.360 - 32:26.820:  ever, is Karen Martin.
+32:26.820 - 32:29.220:  I'm Valerie Sanderson and until next time, bye bye.
