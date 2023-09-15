@@ -39,7 +39,7 @@ def get_transcript(audio_path):
     result = whisper.transcribe(model, audio, beam_size=5, best_of=5, temperature=(0.0, 0.2, 0.4, 0.6, 0.8, 1.0))
     result_text = ""
     for segment in result["segments"]:
-      result_text += f'{format_timestamp(segment["start"])} - {format_timestamp(segment["end"])}: {segment["text"]}\n'
+      result_text += f'*{format_timestamp(segment["start"])}- {format_timestamp(segment["end"])}* : {segment["text"]}\n'
     return result_text
   except Exception as e:
     print(e)
@@ -76,7 +76,7 @@ def fetch_rss_audio():
             if not os.path.exists(folder_name):
               print("Creating folder:", folder_name)
               os.makedirs(folder_name)
-            with open(f"{folder_name}/{formatted_date.replace('-','_')}_{file_name}.txt", "w") as f:
+            with open(f"{folder_name}/{formatted_date.replace('-','_')}_{file_name}.md", "w") as f:
               f.write(transcript)
             seen_entries.add(entry.id)
             with open(SEEN_ENTRIES_FILE, 'wb') as f:
