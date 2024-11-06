@@ -59,14 +59,16 @@ def fetch_rss_audio():
   try:
     feed = feedparser.parse(RSS_URL)
     for entry in feed.entries:
-        if entry.id not in seen_entries:
+        if entry.id in seen_entries:
             title = entry.title
             audio_url = entry["ppg_enclosuresecure"]["url"]
             pubdate = entry["published"]
             formatted_date = datetime.strptime(pubdate, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
             year,month = formatted_date.split("-")[0],formatted_date.split("-")[1]
-            file_name = re.sub('[:\s\'\"()]','_', title)
+            file_name = re.sub('[:\\s\'\"()]','_', title)
             print("Downloading:", file_name)
+            if not os.path.exists("audios"):
+              os.makedirs("audios")
             audio_file = f"audios/{file_name}.mp3"
             with open(audio_file, 'wb') as f:
               file_content = requests.get(audio_url).content
