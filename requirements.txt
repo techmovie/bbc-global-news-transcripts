@@ -1,3 +1,4 @@
 feedparser
-git+https://github.com/linto-ai/whisper-timestamped
+whisper-timestamped
 ffmpeg-python
+numpy==1.26.4

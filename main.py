@@ -67,7 +67,7 @@ def fetch_rss_audio():
             year,month = formatted_date.split("-")[0],formatted_date.split("-")[1]
             file_name = re.sub('[:\s\'\"()]','_', title)
             print("Downloading:", file_name)
-            audio_file = f"{file_name}.mp3"
+            audio_file = f"audios/{file_name}.mp3"
             with open(audio_file, 'wb') as f:
               file_content = requests.get(audio_url).content
               f.write(file_content)
